@@ -1,0 +1,1189 @@
+/home/lisongtao/datasets/LLVIP/valid/rgb/010015.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/010015.jpg 416,591,527,828,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/010016.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/010016.jpg 106,361,183,582,0 175,206,290,460,0 456,368,561,611,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/010029.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/010029.jpg 441,375,538,619,0 1150,403,1266,648,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/010030.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/010030.jpg 434,371,538,614,0 50,911,160,1024,0 1101,829,1239,1012,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/010032.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/010032.jpg 152,546,283,793,0 622,692,753,936,0 781,629,878,799,0 852,408,950,669,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/010045.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/010045.jpg 341,649,479,899,0 641,593,794,830,0 848,421,960,650,0 986,601,1095,848,0 1016,456,1105,662,0 703,633,789,852,0 971,611,1076,870,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/010059.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/010059.jpg 331,554,461,803,0 301,150,405,388,0 851,412,958,671,0 1169,379,1280,597,0 299,138,393,368,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/010064.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/010064.jpg 512,362,658,625,0 896,357,984,581,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/010065.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/010065.jpg 997,544,1106,780,0 1078,501,1172,808,0 1003,253,1072,479,0 952,263,1040,423,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/010082.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/010082.jpg 274,538,406,746,0 1073,420,1219,687,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/010086.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/010086.jpg 109,406,201,649,0 172,379,225,620,0 84,164,143,372,0 127,162,193,382,0 267,345,372,586,0 605,587,716,778,0 1121,97,1180,339,0 1152,113,1227,375,0 1199,334,1265,462,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/010113.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/010113.jpg 669,383,769,628,0 568,343,666,572,0 1208,1,1261,142,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/010116.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/010116.jpg 746,373,830,616,0 703,397,783,635,0 163,811,248,1024,0 78,773,186,1023,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/010124.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/010124.jpg 371,555,493,771,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/010125.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/010125.jpg 380,659,476,901,0 340,647,403,909,0 376,564,438,697,0 259,521,353,794,0 1,298,71,516,0 355,328,447,551,0 546,323,615,554,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/010132.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/010132.jpg 1026,380,1140,601,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/010138.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/010138.jpg 366,589,436,847,0 392,617,474,885,0 759,566,837,736,0 835,533,905,682,0 244,401,335,647,0 183,434,268,654,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/010141.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/010141.jpg 194,437,298,659,0 255,729,398,970,0 689,391,793,645,0 1194,381,1279,595,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/010144.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/010144.jpg 178,183,259,422,0 1079,1,1149,193,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/010184.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/010184.jpg 318,539,473,791,0 824,405,986,642,0 1077,92,1197,310,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/010189.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/010189.jpg 134,379,261,610,0 192,103,290,335,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/010192.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/010192.jpg 434,366,543,618,0 273,857,435,1021,0 660,747,748,971,0 893,561,986,804,0 978,555,1056,793,0 1114,1,1214,154,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/010274.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/010274.jpg 302,459,371,671,0 344,404,428,610,0 483,380,556,611,0 729,383,821,612,0 860,146,922,376,0 1051,87,1116,298,0 1128,78,1203,309,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/010276.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/010276.jpg 86,834,185,1009,0 140,663,260,922,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/010278.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/010278.jpg 739,373,828,622,0 706,403,774,635,0 162,755,239,1009,0 84,764,189,1019,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/010281.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/010281.jpg 431,368,537,622,0 202,855,299,1024,0 137,933,215,1024,0 1005,923,1131,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/010294.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/010294.jpg 496,468,562,705,0 540,454,600,693,0 1016,601,1103,855,0 1079,613,1166,839,0 1144,405,1226,626,0 1185,295,1280,403,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/010296.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/010296.jpg 606,503,674,746,0 659,471,703,700,0 868,110,937,377,0 933,162,997,382,0 1093,126,1154,358,0 1147,146,1210,381,0 794,895,901,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/010301.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/010301.jpg 367,335,468,599,0 849,397,969,660,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/010306.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/010306.jpg 418,369,548,611,0 961,391,1081,611,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/010309.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/010309.jpg 740,459,858,699,0 540,537,664,740,0 413,507,517,731,0 229,374,356,681,0 43,196,162,424,0 533,323,641,555,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/010318.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/010318.jpg 629,486,709,713,0 939,105,1030,356,0 1013,146,1069,366,0 1063,162,1126,388,0 1136,168,1194,420,0 246,825,372,1024,0 612,476,681,760,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/010325.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/010325.jpg 888,413,980,658,0 1110,133,1201,339,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/010326.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/010326.jpg 68,312,175,547,0 16,356,149,626,0 58,813,187,998,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/010356.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/010356.jpg 306,648,384,835,0 802,449,896,670,0 300,363,379,617,0 99,308,166,525,0 151,270,247,485,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/010366.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/010366.jpg 855,603,922,835,0 913,531,975,799,0 1140,439,1222,660,0 601,620,693,841,0 547,621,618,892,0 434,501,517,774,0 335,356,415,628,0 134,407,248,672,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/010378.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/010378.jpg 875,381,985,661,0 1071,1,1168,280,0 89,341,204,586,0 27,386,136,632,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/010382.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/010382.jpg 901,290,992,478,0 899,499,965,750,0 960,455,1043,720,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/010385.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/010385.jpg 428,561,554,776,0 514,573,627,780,0 1203,1,1278,134,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/010414.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/010414.jpg 4,339,94,578,0 262,92,361,337,0 150,830,256,1018,0 471,376,566,620,0 587,472,659,760,0 644,470,687,712,0 672,336,769,566,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/010415.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/010415.jpg 1,282,71,510,0 493,355,556,605,0 468,559,594,803,0 606,491,725,712,0 844,138,934,380,0 1109,94,1184,304,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/010422.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/010422.jpg 671,449,791,666,0 1109,409,1219,661,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/010445.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/010445.jpg 271,320,381,587,0 14,267,118,501,0 651,539,721,759,0 717,443,830,686,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/010477.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/010477.jpg 436,373,535,612,0 727,472,812,689,0 763,496,868,708,0 264,774,353,1000,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/010481.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/010481.jpg 711,510,836,752,0 606,421,734,673,0 1033,11,1106,234,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/010520.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/010520.jpg 575,399,630,621,0 516,343,583,584,0 1173,1,1253,171,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/010531.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/010531.jpg 493,363,586,609,0 403,714,565,947,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/010548.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/010548.jpg 116,380,250,623,0 600,488,650,744,0 646,475,710,707,0 793,332,910,554,0 1039,123,1113,369,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/010553.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/010553.jpg 94,205,209,432,0 265,436,373,656,0 354,394,411,630,0 478,379,566,621,0 704,355,762,596,0 874,151,960,368,0 917,161,1011,403,0 1111,1,1189,159,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/010576.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/010576.jpg 379,472,459,723,0 711,460,835,698,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/010590.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/010590.jpg 452,371,561,609,0 729,532,849,766,0 792,393,879,666,0 884,130,981,359,0 942,848,1064,1024,0 1096,849,1182,1024,0 1186,788,1280,1019,0 893,177,989,389,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/010595.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/010595.jpg 455,366,558,611,0 915,553,1031,781,0 903,448,1031,714,0 1220,717,1280,932,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/020008.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/020008.jpg 649,291,723,509,0 721,325,838,561,0 1100,460,1201,745,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/020016.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/020016.jpg 351,522,479,807,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/020041.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/020041.jpg 628,695,760,914,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/020070.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/020070.jpg 508,422,638,722,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/020071.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/020071.jpg 280,553,424,814,0 608,556,721,824,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/020075.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/020075.jpg 8,582,114,844,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/020093.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/020093.jpg 848,580,950,809,0 1114,253,1177,525,0 425,947,519,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/020100.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/020100.jpg 588,528,701,776,0 816,532,950,803,0 211,237,321,431,0 127,175,254,379,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/020112.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/020112.jpg 226,393,301,599,0 256,408,362,600,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/020135.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/020135.jpg 964,248,1066,466,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/020141.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/020141.jpg 107,556,217,820,0 250,591,359,863,0 805,816,872,1024,0 1014,621,1077,885,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/020150.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/020150.jpg 424,410,572,679,0 111,553,235,800,0 1,346,91,532,0 615,1,718,189,0 140,635,276,869,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/020159.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/020159.jpg 65,616,197,900,0 631,815,750,988,0 840,389,923,612,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/020173.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/020173.jpg 216,519,318,791,0 1108,258,1191,531,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/020179.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/020179.jpg 3,455,123,706,0 198,420,290,663,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/020182.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/020182.jpg 544,470,675,708,0 9,641,139,910,0 1018,222,1093,487,0 14,684,119,938,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/020185.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/020185.jpg 88,813,205,1024,0 322,730,426,998,0 353,653,466,914,0 498,621,613,877,0 752,406,868,668,0 847,150,950,362,0 1003,171,1087,361,0 1216,800,1280,941,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/020189.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/020189.jpg 216,532,355,785,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/020196.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/020196.jpg 350,389,492,607,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/020213.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/020213.jpg 502,505,583,812,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/020220.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/020220.jpg 122,353,229,610,0 255,531,347,726,0 317,506,431,718,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/020221.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/020221.jpg 594,444,713,660,0 921,120,1035,312,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/020225.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/020225.jpg 141,551,265,807,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/020226.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/020226.jpg 556,422,660,673,0 606,460,687,714,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/020244.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/020244.jpg 771,354,877,603,0 897,526,1005,763,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/020245.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/020245.jpg 736,386,856,591,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/020249.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/020249.jpg 602,731,764,937,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/020286.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/020286.jpg 1015,246,1162,487,0 572,24,653,225,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/020291.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/020291.jpg 662,378,739,674,0 1127,731,1216,942,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/020293.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/020293.jpg 487,425,610,673,0 706,672,801,910,0 790,716,929,957,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/020298.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/020298.jpg 747,407,850,659,0 936,466,1053,701,0 897,193,1004,392,0 537,668,683,901,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/020318.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/020318.jpg 425,533,525,808,0 1114,260,1184,518,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/020326.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/020326.jpg 325,605,455,851,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/020340.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/020340.jpg 283,736,419,975,0 84,894,191,1009,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/020349.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/020349.jpg 379,259,492,493,0 594,5,672,232,0 255,63,350,240,0 104,204,231,460,0 102,693,213,955,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/020376.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/020376.jpg 601,368,706,624,0 414,920,480,1019,0 1047,629,1156,886,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/020382.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/020382.jpg 517,542,618,835,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/020397.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/020397.jpg 868,197,968,414,0 665,713,779,944,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/020406.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/020406.jpg 800,430,905,717,0 947,551,1116,843,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/020409.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/020409.jpg 1021,213,1113,463,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/020425.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/020425.jpg 904,542,1050,742,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/020440.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/020440.jpg 949,246,1060,469,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/020444.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/020444.jpg 319,391,438,629,0 968,684,1067,941,0 1033,748,1192,1023,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/020478.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/020478.jpg 1128,253,1166,538,0 12,511,121,786,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/020479.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/020479.jpg 638,604,747,866,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/020483.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/020483.jpg 689,741,809,933,0 6,196,84,416,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/020485.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/020485.jpg 110,525,224,782,0 312,421,408,657,0 740,371,896,631,0 320,450,405,728,0 67,578,184,825,0 1095,767,1204,987,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/030024.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/030024.jpg 359,282,467,535,0 593,763,705,955,0 138,122,219,301,0 163,49,264,194,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/030027.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/030027.jpg 258,35,378,250,0 473,1,576,117,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/030039.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/030039.jpg 19,11,131,248,0 137,157,269,361,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/030057.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/030057.jpg 334,882,484,1024,0 692,126,803,309,0 753,116,843,293,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/030069.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/030069.jpg 282,707,402,905,0 2,210,122,429,0 131,231,258,465,0 193,84,309,332,0 355,118,449,337,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/030074.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/030074.jpg 94,1,203,151,0 394,392,504,628,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/030075.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/030075.jpg 230,84,339,287,0 437,45,516,251,0 612,160,710,369,0 617,488,758,735,0 666,449,816,716,0 795,528,887,809,0 851,500,960,769,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/030077.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/030077.jpg 214,65,345,285,0 438,44,525,257,0 209,255,306,359,0 176,259,321,510,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/030081.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/030081.jpg 178,41,297,245,0 510,406,593,670,0 537,330,668,601,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/030082.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/030082.jpg 48,1,110,173,0 168,165,275,389,0 360,103,478,331,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/030116.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/030116.jpg 1171,403,1280,640,0 445,1,542,199,0 1,43,32,234,0 676,1,777,110,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/030128.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/030128.jpg 144,407,259,651,0 844,422,986,696,0 1123,439,1205,690,0 68,1,109,80,0 847,376,956,647,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/030129.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/030129.jpg 605,320,719,536,0 563,286,633,503,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/030139.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/030139.jpg 22,3,100,198,0 369,137,476,371,0 1147,603,1234,888,0 1219,614,1280,870,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/030153.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/030153.jpg 518,197,652,373,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/030158.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/030158.jpg 18,131,149,343,0 398,136,503,359,0 670,732,815,1008,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/030170.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/030170.jpg 1175,720,1280,937,0 1053,1,1179,156,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/030174.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/030174.jpg 284,392,402,662,0 379,346,434,600,0 419,300,540,560,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/030176.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/030176.jpg 38,541,127,816,0 58,486,146,754,0 1209,116,1280,303,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/030225.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/030225.jpg 210,212,313,414,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/030226.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/030226.jpg 71,278,187,531,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/030235.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/030235.jpg 489,230,598,480,0 850,873,1001,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/030253.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/030253.jpg 49,303,151,543,0 120,262,223,492,0 32,195,109,415,0 90,803,211,1014,0 486,666,621,885,0 565,684,661,942,0 902,363,1044,639,0 967,837,1071,994,0 612,672,706,938,0 88,159,148,279,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/030297.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/030297.jpg 655,283,772,452,0 479,1,587,133,0 623,1,719,133,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/030299.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/030299.jpg 770,345,890,632,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/030300.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/030300.jpg 1035,359,1144,620,0 1098,605,1228,829,0 543,72,625,255,0 669,1,775,113,0 1174,622,1244,867,0 1240,622,1280,785,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/030304.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/030304.jpg 421,424,509,687,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/030308.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/030308.jpg 509,657,601,920,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/030309.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/030309.jpg 165,592,281,878,0 473,780,600,1024,0 553,808,662,1006,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/030314.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/030314.jpg 32,55,117,230,0 255,145,369,358,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/030332.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/030332.jpg 1066,396,1161,662,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/030343.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/030343.jpg 397,37,490,262,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/030346.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/030346.jpg 362,701,460,937,0 509,200,598,433,0 559,1,660,217,0 413,1,536,171,0 294,18,376,241,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/030367.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/030367.jpg 735,195,866,450,0 1096,562,1212,735,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/030382.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/030382.jpg 4,645,72,884,0 276,718,405,960,0 457,130,551,358,0 389,64,491,250,0 407,11,477,86,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/030386.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/030386.jpg 271,359,412,610,0 254,305,351,563,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/030397.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/030397.jpg 138,269,231,498,0 437,1,534,186,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/030399.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/030399.jpg 916,333,991,593,0 898,374,1048,639,0 1040,655,1174,908,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/030413.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/030413.jpg 1139,420,1231,674,0 1148,387,1249,626,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/030419.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/030419.jpg 237,413,365,676,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/030443.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/030443.jpg 180,182,267,422,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/030446.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/030446.jpg 149,116,228,298,0 154,53,256,170,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/040005.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/040005.jpg 130,652,240,927,0 540,746,669,986,0 849,336,965,621,0 623,181,713,393,0 463,90,577,325,0 782,13,861,183,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/040019.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/040019.jpg 463,606,611,833,0 667,787,803,1013,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/040021.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/040021.jpg 205,348,289,616,0 277,372,344,610,0 708,5,812,220,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/040033.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/040033.jpg 649,52,742,271,0 808,456,927,702,0 357,694,486,904,0 666,825,819,1024,0 581,128,665,344,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/040035.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/040035.jpg 274,306,353,552,0 344,342,407,573,0 1000,1,1064,79,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/040054.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/040054.jpg 635,4,709,186,0 216,543,328,738,0 239,718,323,975,0 636,543,728,815,0 735,542,861,819,0 280,700,343,917,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/040058.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/040058.jpg 153,544,243,794,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/040059.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/040059.jpg 1,639,76,883,0 971,1,1072,189,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/040062.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/040062.jpg 247,763,363,1005,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/040080.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/040080.jpg 190,665,319,932,0 717,389,858,659,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/040084.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/040084.jpg 858,329,973,535,0 239,735,389,944,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/040086.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/040086.jpg 566,732,694,988,0 699,5,761,204,0 755,16,815,220,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/040103.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/040103.jpg 170,339,282,547,0 119,648,221,917,0 497,188,576,405,0 620,88,720,324,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/040112.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/040112.jpg 111,817,226,1024,0 132,488,216,732,0 205,483,290,739,0 596,574,757,792,0 669,774,782,1008,0 1011,693,1132,965,0 805,196,893,429,0 721,189,813,429,0 639,177,717,382,0 628,16,718,203,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/040114.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/040114.jpg 9,602,88,883,0 49,620,136,893,0 143,673,249,943,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/040115.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/040115.jpg 71,752,139,1024,0 12,756,86,1019,0 458,536,577,785,0 608,575,739,809,0 913,1,989,135,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/040116.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/040116.jpg 217,375,340,625,0 239,724,313,966,0 1101,92,1181,315,0 492,90,569,313,0 277,697,343,902,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/040124.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/040124.jpg 226,346,311,581,0 334,344,412,589,0 112,656,220,913,0 642,1,727,203,0 905,5,965,142,0 516,152,570,346,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/040126.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/040126.jpg 474,601,621,824,0 842,350,965,585,0 993,605,1158,919,0 601,161,678,350,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/040163.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/040163.jpg 609,566,731,797,0 1202,54,1280,232,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/040185.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/040185.jpg 67,760,217,979,0 681,6,751,202,0 749,28,832,224,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/040188.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/040188.jpg 265,682,408,923,0 504,713,642,965,0 605,546,765,783,0 865,281,1016,539,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/040196.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/040196.jpg 74,669,166,915,0 239,594,339,854,0 211,315,296,562,0 317,319,394,533,0 357,251,413,350,0 297,932,380,1024,0 582,932,659,1024,0 666,896,731,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/040222.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/040222.jpg 136,635,257,898,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/040235.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/040235.jpg 962,247,1049,474,0 440,165,517,374,0 251,339,339,588,0 355,392,421,606,0 905,5,967,162,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/040236.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/040236.jpg 653,400,755,643,0 616,1,704,189,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/040262.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/040262.jpg 615,573,736,783,0 262,671,380,913,0 910,3,978,112,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/040264.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/040264.jpg 528,559,647,779,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/040270.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/040270.jpg 173,455,251,690,0 280,458,392,711,0 117,665,215,915,0 505,66,571,283,0 642,69,719,301,0 1007,1,1087,64,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/040271.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/040271.jpg 197,329,315,576,0 619,87,713,333,0 632,570,746,814,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/040274.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/040274.jpg 1142,198,1236,425,0 612,578,750,797,0 581,396,661,623,0 500,382,588,631,0 412,346,490,563,0 315,361,408,562,0 317,223,364,423,0 357,235,405,428,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/040298.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/040298.jpg 1088,35,1193,236,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/040309.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/040309.jpg 1,659,81,898,0 1039,235,1139,453,0 623,123,703,321,0 424,152,500,366,0 507,154,557,366,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/040314.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/040314.jpg 832,354,906,564,0 543,882,615,1024,0 599,893,692,1024,0 149,888,223,1024,0 205,883,289,1024,0 344,286,434,509,0 447,179,523,409,0 858,336,931,540,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/040317.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/040317.jpg 467,631,580,858,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/040320.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/040320.jpg 12,402,111,662,0 174,440,257,682,0 263,446,353,683,0 692,1,755,190,0 776,8,839,183,0 897,5,965,175,0 1109,901,1197,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/040322.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/040322.jpg 20,612,105,879,0 93,646,188,904,0 394,161,492,393,0 915,265,1030,496,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/040323.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/040323.jpg 113,673,238,906,0 458,202,544,423,0 957,328,1069,556,0 750,11,830,227,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/040324.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/040324.jpg 789,380,909,610,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/040329.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/040329.jpg 138,659,232,913,0 266,256,363,479,0 354,347,415,556,0 997,1,1050,60,0 1050,1,1105,67,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/040332.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/040332.jpg 832,762,961,969,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/040341.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/040341.jpg 1078,289,1188,559,0 1196,651,1277,900,0 600,148,681,348,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/040400.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/040400.jpg 115,662,215,908,0 355,288,442,485,0 658,9,721,192,0 690,59,763,309,0 743,27,819,229,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/040409.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/040409.jpg 454,197,534,454,0 351,255,438,483,0 638,133,740,381,0 603,151,667,336,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/040411.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/040411.jpg 361,632,516,881,0 128,656,216,920,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/040456.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/040456.jpg 1,459,85,650,0 135,512,236,761,0 228,504,335,739,0 643,13,724,213,0 716,15,778,224,0 777,20,834,217,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/040458.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/040458.jpg 284,324,396,586,0 596,40,655,270,0 630,35,719,258,0 1159,966,1226,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/040468.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/040468.jpg 246,306,351,532,0 421,233,532,467,0 923,5,988,128,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/040470.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/040470.jpg 608,567,735,762,0 1,871,66,1024,0 771,1,831,181,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/050003.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/050003.jpg 732,371,894,594,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/050007.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/050007.jpg 325,380,454,645,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/050042.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/050042.jpg 215,477,357,774,0 617,230,736,485,0 761,129,836,377,0 789,66,887,315,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/050082.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/050082.jpg 767,492,939,781,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/050101.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/050101.jpg 652,244,731,495,0 719,261,796,469,0 138,368,238,580,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/050128.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/050128.jpg 564,144,694,368,0 923,297,1060,514,0 70,250,181,530,0 34,226,124,487,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/050137.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/050137.jpg 561,19,676,240,0 999,508,1157,766,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/050150.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/050150.jpg 366,60,480,333,0 417,308,500,549,0 324,359,432,637,0 946,213,1036,417,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/050156.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/050156.jpg 189,6,297,212,0 580,632,727,842,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/050157.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/050157.jpg 324,375,444,663,0 473,485,585,723,0 608,212,703,469,0 667,265,773,531,0 790,212,878,420,0 831,235,927,479,0 1207,197,1278,448,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/050165.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/050165.jpg 274,78,380,366,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/050194.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/050194.jpg 292,112,397,392,0 97,338,228,538,0 953,526,1067,754,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/050208.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/050208.jpg 71,448,169,617,0 999,343,1077,512,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/050220.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/050220.jpg 223,117,358,376,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/050224.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/050224.jpg 224,471,354,786,0 470,133,557,361,0 523,171,600,342,0 624,216,724,493,0 1099,12,1197,278,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/050230.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/050230.jpg 173,17,273,289,0 555,187,725,475,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/050253.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/050253.jpg 219,216,328,461,0 833,168,962,425,0 175,896,358,1024,0 80,1,140,117,0 169,1,280,73,0 252,1,353,69,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/050257.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/050257.jpg 597,183,714,463,0 348,566,474,828,0 1010,167,1093,414,0 1090,194,1140,338,0 981,527,1110,766,0 964,785,1117,983,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/050264.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/050264.jpg 668,148,759,419,0 171,183,289,418,0 608,3,743,64,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/050278.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/050278.jpg 843,169,949,383,0 966,299,1084,509,0 358,197,441,458,0 283,185,375,459,0 206,25,288,290,0 135,47,219,308,0 64,38,162,305,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/050285.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/050285.jpg 353,569,509,832,0 1132,4,1192,235,0 469,1,546,61,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/050301.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/050301.jpg 216,475,353,793,0 615,228,728,498,0 835,456,986,704,0 712,1,834,186,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/050310.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/050310.jpg 26,1,136,263,0 197,394,313,661,0 297,380,365,591,0 865,299,972,522,0 930,2,1036,237,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/050313.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/050313.jpg 375,67,465,312,0 951,482,1058,691,0 1035,541,1109,696,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/050316.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/050316.jpg 425,169,521,345,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/050320.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/050320.jpg 226,248,332,489,0 3,469,108,721,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/050326.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/050326.jpg 561,3,642,225,0 638,1,711,154,0 709,1,795,139,0 858,1,950,265,0 1031,216,1111,490,0 1114,203,1212,477,0 1079,84,1155,277,0 1123,34,1221,278,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/050327.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/050327.jpg 297,6,393,217,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/050360.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/050360.jpg 355,487,486,688,0 547,336,673,574,0 932,154,1051,418,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/050364.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/050364.jpg 815,325,951,561,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/050395.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/050395.jpg 686,189,816,402,0 482,1,593,202,0 1038,224,1123,489,0 1176,175,1258,428,0 1188,117,1280,358,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/050400.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/050400.jpg 53,293,182,490,0 140,30,228,302,0 206,20,285,267,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/050414.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/050414.jpg 217,481,350,773,0 621,227,730,492,0 1015,469,1157,719,0 461,6,550,215,0 531,2,612,194,0 651,4,731,165,0 726,4,792,140,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/050420.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/050420.jpg 224,475,346,778,0 603,227,728,492,0 601,1,694,178,0 742,1,812,119,0 840,78,926,344,0 1055,31,1154,298,0 1181,9,1274,251,0 885,61,963,309,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/060018.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/060018.jpg 490,628,566,843,0 161,403,248,649,0 199,411,273,638,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/060032.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/060032.jpg 568,658,642,896,0 665,795,757,1018,0 822,797,950,1024,0 935,610,1051,848,0 944,596,1031,811,0 1244,507,1280,761,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/060037.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/060037.jpg 347,451,435,664,0 399,430,488,642,0 871,843,978,1024,0 1097,476,1207,633,0 1188,629,1277,828,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/060044.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/060044.jpg 665,565,758,803,0 759,601,846,855,0 863,654,958,894,0 974,645,1053,884,0 1051,684,1148,921,0 954,566,1017,801,0 915,812,1035,1024,0 1217,717,1277,960,0 1181,621,1280,824,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/060060.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/060060.jpg 877,489,983,740,0 931,492,1000,737,0 108,953,181,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/060079.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/060079.jpg 1025,721,1098,970,0 30,742,136,902,0 1084,447,1153,667,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/060082.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/060082.jpg 509,479,624,703,0 1139,465,1213,656,0 1188,621,1280,789,0 662,814,786,1019,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/060087.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/060087.jpg 1039,461,1103,705,0 192,458,299,680,0 364,434,438,644,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/060125.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/060125.jpg 1146,459,1273,628,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/060130.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/060130.jpg 221,379,310,592,0 1180,536,1262,650,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/060139.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/060139.jpg 427,429,492,624,0 476,440,588,610,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/060142.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/060142.jpg 996,769,1093,1024,0 1151,806,1246,1024,0 388,377,464,590,0 1020,494,1132,714,0 1018,492,1130,712,0 724,953,792,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/060151.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/060151.jpg 795,839,921,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/060155.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/060155.jpg 820,828,918,1017,0 1073,599,1177,772,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/060162.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/060162.jpg 65,728,170,936,0 619,594,703,825,0 683,560,773,815,0 806,480,884,703,0 1017,487,1099,734,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/060166.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/060166.jpg 1140,529,1253,658,0 1173,384,1268,607,0 492,887,627,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/060185.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/060185.jpg 77,339,162,555,0 1177,538,1265,651,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/060190.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/060190.jpg 494,534,573,755,0 995,569,1104,758,0 1081,584,1163,705,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/060224.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/060224.jpg 100,430,173,662,0 120,422,195,625,0 567,648,647,905,0 667,793,759,1023,0 770,817,936,1022,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/060230.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/060230.jpg 423,493,512,732,0 775,614,854,868,0 1183,621,1279,803,0 710,578,791,813,0 669,532,742,766,0 632,480,719,710,0 573,564,654,806,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/060235.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/060235.jpg 769,504,901,739,0 797,701,910,948,0 1181,802,1255,1021,0 1228,851,1275,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/060253.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/060253.jpg 34,759,154,945,0 746,536,828,783,0 1011,725,1101,969,0 1181,539,1270,736,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/060289.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/060289.jpg 1066,595,1181,774,0 1065,512,1149,699,0 317,781,433,977,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/060298.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/060298.jpg 450,403,543,613,0 1073,751,1171,1010,0 1176,521,1273,743,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/060335.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/060335.jpg 388,410,456,599,0 369,515,433,743,0 434,489,518,718,0 521,595,593,852,0 909,500,992,721,0 1032,486,1119,696,0 1026,820,1141,1024,0 839,910,976,1024,0 687,943,754,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/060339.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/060339.jpg 171,472,239,663,0 221,436,332,666,0 427,509,504,728,0 489,506,559,717,0 997,580,1105,754,0 1049,573,1170,700,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/060343.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/060343.jpg 1065,597,1176,725,0 1148,533,1241,669,0 948,763,1042,993,0 1006,761,1108,1001,0 167,913,295,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/060348.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/060348.jpg 276,446,362,671,0 388,443,483,654,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/060355.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/060355.jpg 948,754,1032,1024,0 657,651,719,869,0 667,794,755,1016,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/060367.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/060367.jpg 473,560,554,820,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/060372.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/060372.jpg 198,437,280,648,0 1057,834,1139,1024,0 1109,831,1198,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/060378.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/060378.jpg 12,313,125,534,0 447,558,528,791,0 558,557,649,784,0 954,674,1028,922,0 1031,638,1121,892,0 1080,466,1148,705,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/060387.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/060387.jpg 902,605,967,855,0 408,406,497,617,0 177,414,265,625,0 236,407,325,612,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/060396.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/060396.jpg 568,657,653,899,0 473,886,604,1024,0 665,791,759,1024,0 917,780,1024,1023,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/060407.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/060407.jpg 554,469,645,706,0 1028,532,1135,764,0 1104,447,1183,666,0 838,855,959,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/060418.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/060418.jpg 885,517,1010,753,0 399,854,532,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/060421.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/060421.jpg 602,821,719,1002,0 1016,723,1099,971,0 924,591,1004,840,0 1181,538,1272,737,0 1,290,61,500,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/060435.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/060435.jpg 583,563,671,788,0 750,800,819,1024,0 816,835,887,1024,0 910,860,993,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/060443.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/060443.jpg 553,894,635,1024,0 1092,925,1157,1024,0 998,572,1096,758,0 1069,569,1171,695,0 368,472,421,699,0 404,462,474,677,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/060445.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/060445.jpg 436,799,520,1024,0 514,844,603,1024,0 1036,751,1156,987,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/060450.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/060450.jpg 2,317,71,511,0 892,606,990,840,0 979,583,1057,806,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/060452.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/060452.jpg 1014,484,1114,732,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/060454.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/060454.jpg 192,767,306,947,0 1211,525,1278,671,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/060475.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/060475.jpg 512,437,572,660,0 471,425,545,662,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/060477.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/060477.jpg 364,417,460,636,0 1175,534,1262,654,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/070003.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/070003.jpg 1026,379,1124,573,0 985,676,1017,835,0 671,875,713,1016,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/070016.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/070016.jpg 667,263,737,480,0 733,222,790,437,0 592,81,651,193,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/070024.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/070024.jpg 527,337,610,498,0 494,593,565,825,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/070028.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/070028.jpg 1040,458,1108,662,0 42,802,116,1024,0 116,809,193,1024,0 108,603,216,848,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/070066.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/070066.jpg 543,887,632,1024,0 542,818,659,1024,0 350,439,422,663,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/070071.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/070071.jpg 509,307,600,513,0 651,680,747,892,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/070076.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/070076.jpg 550,256,610,489,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/070077.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/070077.jpg 550,495,669,738,0 1164,333,1262,545,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/070100.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/070100.jpg 42,788,114,1024,0 81,759,161,972,0 432,372,509,563,0 527,360,608,584,0 534,271,608,395,0 700,173,768,366,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/070116.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/070116.jpg 19,755,101,1024,0 722,232,824,435,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/070117.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/070117.jpg 1022,834,1148,1024,0 93,935,195,1024,0 473,349,554,573,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/070126.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/070126.jpg 412,795,525,1019,0 143,610,247,843,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/070127.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/070127.jpg 360,766,487,990,0 680,872,715,1024,0 984,674,1027,836,0 667,260,733,463,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/070129.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/070129.jpg 464,808,587,1008,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/070140.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/070140.jpg 886,361,980,593,0 554,748,662,958,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/070147.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/070147.jpg 596,284,706,430,0 1021,61,1082,255,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/070164.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/070164.jpg 730,574,840,768,0 985,676,1018,836,0 684,875,714,1017,0 277,851,358,1024,0 77,832,183,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/070173.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/070173.jpg 540,718,647,903,0 696,719,812,957,0 720,773,777,922,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/070174.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/070174.jpg 482,310,563,511,0 663,298,705,507,0 974,554,1072,747,0 861,168,908,325,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/070181.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/070181.jpg 219,581,305,830,0 228,500,313,726,0 321,551,380,783,0 379,563,439,795,0 312,506,390,718,0 371,393,438,561,0 469,403,556,640,0 992,118,1057,332,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/070210.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/070210.jpg 705,622,809,842,0 69,631,146,867,0 677,265,740,459,0 743,226,811,409,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/070213.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/070213.jpg 607,847,685,995,0 584,779,724,1024,0 271,528,353,765,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/070224.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/070224.jpg 663,249,715,450,0 398,453,436,692,0 335,500,413,732,0 198,588,269,816,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/070231.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/070231.jpg 333,440,440,675,0 155,970,213,1024,0 712,57,790,198,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/070254.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/070254.jpg 683,206,797,437,0 839,126,919,301,0 1191,470,1280,655,0 1109,909,1233,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/070264.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/070264.jpg 341,467,439,727,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/070293.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/070293.jpg 785,674,888,887,0 938,741,1065,930,0 708,277,784,482,0 663,274,708,468,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/070295.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/070295.jpg 962,478,1060,664,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/070303.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/070303.jpg 498,317,571,525,0 208,591,294,805,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/070304.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/070304.jpg 290,443,371,657,0 1101,41,1161,217,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/070316.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/070316.jpg 202,533,281,761,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/070326.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/070326.jpg 255,662,344,886,0 58,731,146,971,0 146,731,225,957,0 107,646,167,780,0 156,634,227,781,0 208,522,281,734,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/070334.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/070334.jpg 549,571,618,786,0 611,573,693,805,0 513,346,596,574,0 421,390,517,595,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/070369.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/070369.jpg 987,677,1018,834,0 682,875,715,1016,0 335,768,467,990,0 201,570,301,801,0 318,605,390,822,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/070370.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/070370.jpg 1083,456,1189,644,0 751,822,873,1010,0 609,850,686,995,0 584,776,722,1024,0 195,966,280,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/070383.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/070383.jpg 29,751,128,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/070402.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/070402.jpg 703,165,766,368,0 375,822,484,1019,0 473,820,522,982,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/070415.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/070415.jpg 934,921,1012,1024,0 450,931,554,1024,0 383,952,448,1024,0 369,449,435,698,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/070423.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/070423.jpg 516,287,593,480,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/070429.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/070429.jpg 508,347,572,512,0 722,185,818,422,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/070442.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/070442.jpg 782,562,894,752,0 738,173,808,369,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080002.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080002.jpg 959,331,1066,591,0 859,767,947,1016,0 697,851,816,1024,0 487,14,586,171,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080020.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080020.jpg 1091,615,1183,812,0 1183,641,1280,906,0 1020,743,1132,1024,0 1116,769,1213,1024,0 153,331,326,530,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080050.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080050.jpg 110,305,236,512,0 816,74,891,278,0 864,49,938,259,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080059.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080059.jpg 983,117,1090,376,0 258,576,449,827,0 104,758,264,1019,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080077.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080077.jpg 435,342,533,518,0 724,481,835,657,0 811,576,894,764,0 921,430,1051,673,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080093.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080093.jpg 559,475,665,668,0 121,259,234,446,0 403,743,519,948,0 738,454,868,709,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080094.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080094.jpg 932,131,1036,380,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080095.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080095.jpg 752,424,880,612,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080096.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080096.jpg 81,275,214,445,0 721,13,820,249,0 1054,841,1148,1024,0 1195,970,1254,1024,0 747,1,837,182,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080103.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080103.jpg 790,684,879,955,0 935,751,1073,980,0 1183,844,1280,1011,0 700,1,786,218,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080109.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080109.jpg 1162,632,1260,894,0 543,794,635,1024,0 622,768,730,1024,0 831,105,919,282,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080110.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080110.jpg 746,820,886,985,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080111.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080111.jpg 686,900,794,1024,0 1054,888,1145,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080117.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080117.jpg 377,435,471,673,0 761,412,919,665,0 607,674,716,931,0 687,693,811,993,0 1097,728,1232,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080121.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080121.jpg 627,455,765,666,0 715,649,869,928,0 931,734,1017,864,0 920,791,1058,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080124.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080124.jpg 91,248,188,414,0 1158,701,1264,978,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080147.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080147.jpg 1042,500,1175,757,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080171.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080171.jpg 821,790,909,1024,0 536,959,595,1024,0 587,977,638,1024,0 977,741,1054,967,0 1046,724,1122,969,0 1113,717,1203,936,0 1071,891,1215,1024,0 1160,175,1230,338,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080201.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080201.jpg 506,414,644,574,0 68,205,194,395,0 1036,514,1190,712,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080211.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080211.jpg 968,116,1076,374,0 1168,511,1253,702,0 1183,634,1259,838,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080215.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080215.jpg 960,151,1083,432,0 870,795,1100,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080216.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080216.jpg 696,641,845,915,0 918,739,1035,972,0 1023,762,1141,1024,0 1024,81,1127,316,0 851,34,979,285,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080225.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080225.jpg 436,396,548,599,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080229.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080229.jpg 442,608,554,870,0 528,605,637,895,0 871,499,994,767,0 472,345,611,587,0 27,219,152,431,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080230.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080230.jpg 832,19,929,246,0 933,1,1012,234,0 1025,474,1155,707,0 435,775,599,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080233.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080233.jpg 973,117,1052,377,0 743,744,881,982,0 23,3,107,231,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080239.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080239.jpg 959,792,1080,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080243.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080243.jpg 1,190,36,346,0 468,393,598,550,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080245.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080245.jpg 348,93,459,333,0 101,591,221,860,0 452,55,551,300,0 516,159,654,397,0 620,144,708,379,0 674,97,769,358,0 1003,128,1073,375,0 1072,215,1159,459,0 923,584,1054,823,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080273.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080273.jpg 874,695,999,966,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080280.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080280.jpg 995,124,1095,372,0 510,627,660,833,0 896,755,1026,977,0 962,635,1127,870,0 4,326,69,503,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080284.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080284.jpg 573,403,719,635,0 741,582,881,814,0 1019,522,1118,714,0 1084,517,1178,728,0 675,26,741,238,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080288.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080288.jpg 959,114,1080,390,0 720,662,840,886,0 810,769,922,1024,0 288,931,392,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080289.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080289.jpg 174,255,306,472,0 254,360,406,601,0 703,637,862,932,0 1038,780,1191,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080299.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080299.jpg 709,766,846,1024,0 1202,791,1275,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080303.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080303.jpg 118,637,241,857,0 976,122,1073,374,0 1133,501,1261,748,0 1153,791,1247,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080306.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080306.jpg 1,200,101,388,0 615,353,736,591,0 956,506,1079,737,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080314.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080314.jpg 977,122,1072,380,0 430,882,544,1024,0 1178,662,1280,933,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080319.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080319.jpg 1008,955,1096,1024,0 1112,182,1202,426,0 983,159,1068,386,0 1016,103,1092,328,0 841,128,933,337,0 903,87,968,314,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080325.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080325.jpg 983,808,1049,964,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080336.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080336.jpg 998,127,1088,395,0 1005,613,1180,834,0 923,786,1079,990,0 7,346,136,581,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080344.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080344.jpg 1016,630,1143,873,0 1,148,90,351,0 285,295,403,443,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080367.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080367.jpg 904,239,978,522,0 966,183,1069,382,0 956,259,1035,493,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080373.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080373.jpg 897,514,1019,685,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080402.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080402.jpg 728,262,818,506,0 819,174,886,429,0 873,149,930,399,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080420.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080420.jpg 1103,514,1223,719,0 729,5,819,184,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080429.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080429.jpg 73,447,231,666,0 248,725,366,997,0 476,743,616,1001,0 1237,681,1280,892,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080432.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080432.jpg 354,330,480,540,0 681,429,795,618,0 427,601,555,876,0 541,585,648,909,0 922,590,1042,885,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080433.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080433.jpg 614,433,723,609,0 683,488,761,635,0 559,670,651,916,0 669,700,769,942,0 749,705,828,974,0 836,725,925,1009,0 1002,708,1159,962,0 1079,760,1161,1024,0 1160,883,1256,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080438.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080438.jpg 770,624,907,860,0 349,924,460,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080447.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080447.jpg 92,259,195,475,0 716,645,877,942,0 926,741,1025,865,0 908,789,1048,1024,0 1225,606,1280,807,0 1216,836,1280,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080450.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080450.jpg 12,652,141,864,0 431,648,556,919,0 723,558,862,780,0 973,123,1081,370,0 1149,509,1255,760,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080455.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080455.jpg 291,308,408,486,0 560,379,697,622,0 724,629,861,962,0 963,509,1113,774,0 910,745,1041,968,0 979,774,1129,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080456.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080456.jpg 709,24,816,278,0 794,2,878,223,0 818,815,935,1024,0 477,901,603,1024,0 388,872,475,1024,0 293,973,386,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080468.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080468.jpg 312,440,432,655,0 678,731,796,1012,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080475.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080475.jpg 567,672,672,926,0 666,699,774,942,0 744,709,829,971,0 861,716,960,991,0 1001,704,1139,963,0 1089,750,1164,1024,0 1153,588,1252,766,0 1169,884,1256,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080476.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080476.jpg 752,33,849,221,0 726,669,812,942,0 990,778,1114,1024,0 845,33,926,247,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080478.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080478.jpg 530,448,651,627,0 1,162,56,384,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080489.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080489.jpg 412,329,522,511,0 523,407,667,612,0 655,379,769,597,0 861,503,952,676,0 1002,463,1146,647,0 1160,508,1275,743,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080494.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080494.jpg 691,634,840,909,0 812,556,887,679,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080506.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080506.jpg 369,734,478,909,0 1058,106,1128,307,0 1117,56,1209,287,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080513.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080513.jpg 999,147,1088,371,0 721,667,810,943,0 988,774,1118,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080529.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080529.jpg 737,410,865,640,0 727,583,851,785,0 1151,697,1280,957,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080531.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080531.jpg 786,471,916,684,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080533.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080533.jpg 949,93,1040,304,0 375,337,466,537,0 447,355,515,535,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080545.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080545.jpg 561,380,713,593,0 1151,551,1279,826,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080550.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080550.jpg 729,661,855,884,0 671,829,787,1024,0 140,978,212,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080554.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080554.jpg 695,145,783,382,0 963,142,1069,369,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080558.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080558.jpg 305,625,402,922,0 621,727,743,976,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080574.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080574.jpg 180,348,306,582,0 430,590,532,862,0 733,662,848,946,0 1128,551,1226,763,0 490,391,581,572,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080593.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080593.jpg 176,263,311,501,0 1154,166,1253,439,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080602.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080602.jpg 919,596,1038,857,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080630.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080630.jpg 945,608,1101,847,0 924,801,1007,1024,0 998,817,1109,1024,0 1126,740,1227,1024,0 1144,152,1236,394,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080652.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080652.jpg 716,595,873,875,0 325,966,406,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080684.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080684.jpg 834,481,1014,689,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080690.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080690.jpg 837,29,931,225,0 1158,150,1235,379,0 1052,654,1146,880,0 677,889,758,1024,0 624,907,687,1024,0 373,933,450,1024,0 518,995,566,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080694.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080694.jpg 459,607,555,872,0 519,585,645,878,0 730,84,798,291,0 803,62,879,305,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080706.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080706.jpg 705,636,832,882,0 78,259,227,473,0 141,995,185,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080716.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080716.jpg 494,341,627,532,0 966,132,1046,345,0 1051,162,1162,392,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080717.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080717.jpg 356,303,463,510,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080723.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080723.jpg 749,35,856,206,0 1217,486,1280,671,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080725.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080725.jpg 904,79,977,304,0 171,295,275,454,0 1081,884,1171,1021,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080735.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080735.jpg 878,39,968,295,0 1087,166,1180,388,0 1167,124,1226,360,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080737.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080737.jpg 341,74,464,301,0 842,366,987,613,0 998,125,1097,387,0 32,15,105,223,0 112,2,203,161,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080761.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080761.jpg 666,870,782,1024,0 777,908,856,1024,0 1221,627,1280,920,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080771.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080771.jpg 1143,106,1246,333,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080773.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080773.jpg 640,119,772,336,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080779.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080779.jpg 512,905,606,1024,0 438,33,487,195,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080798.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080798.jpg 195,38,297,251,0 1099,668,1207,849,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080804.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080804.jpg 909,145,978,350,0 951,112,1016,328,0 1078,888,1169,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080812.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080812.jpg 113,443,264,695,0 403,459,553,705,0 1154,741,1280,962,0 61,34,160,234,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080820.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080820.jpg 155,397,280,618,0 553,499,704,753,0 831,527,981,744,0 747,242,844,497,0 1164,214,1280,505,0 976,795,1091,1024,0 1181,762,1280,1008,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080823.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080823.jpg 437,640,626,946,0 513,119,619,363,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080830.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080830.jpg 1024,713,1156,982,0 202,884,370,1024,0 521,605,668,867,0 608,767,772,998,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080841.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080841.jpg 37,484,146,709,0 286,553,410,767,0 208,707,322,952,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080847.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080847.jpg 44,228,140,395,0 1027,160,1122,391,0 1088,151,1158,367,0 1163,892,1253,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080850.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080850.jpg 728,640,863,912,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080855.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080855.jpg 821,506,970,776,0 626,732,738,989,0 746,903,857,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080876.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080876.jpg 127,401,241,626,0 835,160,908,379,0 909,199,954,365,0 692,722,796,1012,0 1241,770,1280,968,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080884.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080884.jpg 1109,516,1236,741,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080889.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080889.jpg 398,295,515,506,0 464,586,590,883,0 565,593,714,870,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080900.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080900.jpg 1,176,107,371,0 700,733,810,987,0 856,733,943,963,0 932,762,1019,967,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080902.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080902.jpg 844,497,972,718,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080903.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080903.jpg 329,383,426,572,0 1125,557,1260,770,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080905.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080905.jpg 340,274,422,495,0 490,744,589,901,0 473,853,550,1024,0 547,883,635,1024,0 635,955,713,1024,0 773,763,881,1023,0 945,701,1051,1001,0 1048,605,1196,877,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080913.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080913.jpg 186,265,318,485,0 574,386,714,632,0 696,637,866,948,0 921,740,1043,976,0 991,759,1137,1024,0 1214,828,1279,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080920.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080920.jpg 754,627,891,927,0 970,951,1063,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080922.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080922.jpg 304,114,421,368,0 410,66,538,309,0 725,242,824,513,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080925.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080925.jpg 1076,141,1167,371,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080931.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080931.jpg 28,227,153,461,0 684,621,882,947,0 866,907,996,1024,0 1066,766,1205,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080948.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080948.jpg 339,293,462,510,0 739,580,910,832,0 692,3,768,195,0 753,1,843,166,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080971.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080971.jpg 218,260,322,490,0 466,51,528,223,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080978.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080978.jpg 56,814,175,1024,0 327,43,445,286,0 513,62,602,278,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080979.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080979.jpg 94,227,235,430,0 1156,194,1253,413,0 1102,789,1195,1024,0 1186,809,1268,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080981.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080981.jpg 263,736,387,970,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/080997.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/080997.jpg 856,451,965,636,0 910,32,991,236,0 1165,111,1233,331,0 723,670,811,943,0 991,775,1111,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/081016.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/081016.jpg 29,224,141,411,0 619,495,718,687,0 692,527,780,676,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/081024.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/081024.jpg 1115,81,1218,313,0 247,958,338,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/081026.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/081026.jpg 590,352,725,596,0 544,598,675,897,0 454,714,571,895,0 119,222,242,415,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/081040.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/081040.jpg 285,580,435,792,0 325,18,396,265,0 391,8,466,225,0 729,240,824,506,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/081051.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/081051.jpg 472,355,604,569,0 887,629,973,935,0 936,598,1008,827,0 974,725,1049,964,0 522,843,658,1023,0 1146,598,1257,868,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/081055.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/081055.jpg 441,522,580,770,0 622,730,749,987,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/081067.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/081067.jpg 463,97,594,356,0 942,105,1085,374,0 679,645,828,847,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/081091.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/081091.jpg 41,417,161,653,0 274,607,416,825,0 511,500,655,737,0 996,126,1078,378,0 1163,655,1257,930,0 1251,662,1280,838,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/081103.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/081103.jpg 201,273,287,467,0 978,898,1069,1024,0 305,900,448,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/081106.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/081106.jpg 927,776,1080,1024,0 262,357,422,576,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/081142.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/081142.jpg 935,521,1037,711,0 1003,579,1077,730,0 555,675,664,920,0 674,694,773,943,0 747,705,831,974,0 841,720,946,1000,0 997,711,1134,964,0 1087,755,1156,1022,0 1168,883,1256,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/081158.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/081158.jpg 256,378,368,585,0 1051,550,1173,744,0 1158,176,1243,435,0 960,818,1052,954,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/081160.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/081160.jpg 82,45,174,257,0 36,374,186,557,0 391,528,495,684,0 419,106,512,353,0 977,117,1056,372,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/081176.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/081176.jpg 225,640,360,841,0 980,128,1066,373,0 1149,500,1243,752,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/081178.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/081178.jpg 739,118,826,296,0 788,227,860,480,0 846,276,893,457,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/081179.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/081179.jpg 721,668,814,941,0 996,776,1126,1024,0 743,1,834,172,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/081187.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/081187.jpg 929,483,1046,751,0 1104,703,1229,971,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/081189.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/081189.jpg 1037,670,1228,914,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/081199.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/081199.jpg 686,522,803,704,0 148,309,267,486,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/081200.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/081200.jpg 770,93,858,327,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/081227.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/081227.jpg 1007,123,1098,377,0 313,550,456,715,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/081236.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/081236.jpg 587,663,774,931,0 894,667,1065,993,0 996,523,1159,790,0 729,408,851,625,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/081243.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/081243.jpg 956,179,1097,402,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/081262.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/081262.jpg 454,647,583,875,0 568,610,686,879,0 715,429,852,658,0 1182,652,1280,914,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/081267.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/081267.jpg 269,705,395,926,0 661,534,752,781,0 1165,752,1277,946,0 66,924,125,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/081275.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/081275.jpg 1028,127,1138,346,0 593,386,772,610,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/081286.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/081286.jpg 1022,121,1153,362,0 41,295,172,498,0 153,248,278,481,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/081294.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/081294.jpg 390,329,512,500,0 502,457,621,650,0 582,611,687,880,0 440,716,578,912,0 924,463,1085,743,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/081295.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/081295.jpg 804,66,868,284,0 752,691,854,959,0 925,758,1067,982,0 1196,845,1280,1000,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/081323.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/081323.jpg 289,587,444,803,0 804,558,935,749,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/081334.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/081334.jpg 535,408,668,627,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/081354.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/081354.jpg 455,150,575,376,0 570,123,693,362,0 737,255,816,511,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/081378.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/081378.jpg 430,342,519,549,0 739,1,814,162,0 977,480,1094,719,0 1171,670,1273,837,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/081404.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/081404.jpg 522,362,635,578,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/081405.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/081405.jpg 101,411,233,665,0 992,441,1098,668,0 680,759,787,958,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/081409.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/081409.jpg 805,78,905,323,0 641,452,748,656,0 1197,508,1280,742,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/081413.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/081413.jpg 468,322,581,583,0 722,74,802,311,0 766,15,848,283,0 903,544,1039,814,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/081427.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/081427.jpg 58,249,154,429,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/081447.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/081447.jpg 802,447,932,697,0 855,9,935,152,0 1113,982,1218,1024,0 418,30,511,214,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/081453.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/081453.jpg 705,70,786,298,0 714,41,802,261,0 826,109,897,341,0 997,331,1088,580,0 1067,221,1161,464,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/081458.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/081458.jpg 3,377,107,584,0 977,126,1074,380,0 60,1,141,243,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/081471.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/081471.jpg 528,703,693,973,0 1120,546,1247,757,0 1197,717,1272,953,0 65,955,153,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/081474.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/081474.jpg 740,833,831,1024,0 820,879,919,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/081481.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/081481.jpg 1068,176,1207,413,0 673,743,748,954,0 740,713,848,951,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/081483.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/081483.jpg 927,781,1075,1024,0 1103,662,1229,886,0 970,55,1084,305,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/081504.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/081504.jpg 624,730,756,987,0 1154,498,1280,790,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/081506.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/081506.jpg 991,124,1085,383,0 477,494,630,717,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/081516.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/081516.jpg 311,300,435,528,0 592,666,732,933,0 715,670,870,993,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/081521.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/081521.jpg 803,95,863,254,0 835,33,915,232,0 1047,108,1130,328,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090002.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090002.jpg 264,431,384,681,0 79,25,199,263,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090012.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090012.jpg 477,82,584,313,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090027.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090027.jpg 906,156,1019,374,0 745,784,857,987,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090053.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090053.jpg 258,107,319,296,0 332,84,363,287,0 351,6,397,200,0 132,469,252,760,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090065.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090065.jpg 319,175,474,456,0 1215,486,1280,725,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090070.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090070.jpg 182,554,256,810,0 258,536,355,814,0 736,611,832,872,0 901,510,1057,721,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090077.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090077.jpg 927,448,1019,669,0 1069,189,1177,424,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090138.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090138.jpg 549,139,609,325,0 1044,182,1169,427,0 925,611,1023,876,0 1122,612,1230,870,0 1199,650,1280,909,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090155.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090155.jpg 1169,448,1258,711,0 1249,526,1279,787,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090158.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090158.jpg 623,178,754,369,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090174.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090174.jpg 702,188,799,435,0 790,165,846,334,0 861,150,945,369,0 621,720,755,896,0 566,865,695,1015,0 267,732,422,1010,0 118,670,235,942,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090183.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090183.jpg 803,581,906,779,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090186.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090186.jpg 984,151,1086,390,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090210.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090210.jpg 211,580,322,834,0 462,594,585,783,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090215.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090215.jpg 1182,393,1258,663,0 1195,331,1275,568,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090237.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090237.jpg 549,500,668,723,0 745,643,922,923,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090241.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090241.jpg 177,638,259,714,0 526,639,654,883,0 702,128,760,335,0 746,88,795,337,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090258.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090258.jpg 772,799,874,886,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090259.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090259.jpg 421,686,537,944,0 624,866,752,1024,0 1185,663,1275,872,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090264.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090264.jpg 718,461,822,693,0 87,430,178,610,0 1158,347,1260,585,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090267.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090267.jpg 850,707,979,971,0 947,704,1034,924,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090268.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090268.jpg 860,348,975,621,0 983,375,1100,642,0 1119,366,1172,607,0 1176,357,1263,628,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090288.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090288.jpg 997,275,1134,532,0 1165,398,1264,670,0 74,528,171,703,0 594,777,725,1006,0 702,768,774,1020,0 1086,869,1239,1024,0 395,942,515,1024,0 507,936,592,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090293.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090293.jpg 1,395,61,608,0 1133,593,1279,782,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090302.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090302.jpg 457,790,594,1024,0 580,615,736,842,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090353.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090353.jpg 1101,371,1203,629,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090358.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090358.jpg 196,655,303,702,0 351,689,478,964,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090360.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090360.jpg 137,622,290,856,0 845,133,946,346,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090366.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090366.jpg 97,419,276,593,0 721,812,882,975,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090381.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090381.jpg 874,612,1024,844,0 1172,589,1280,715,0 1195,635,1280,905,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090390.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090390.jpg 864,606,1030,839,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090420.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090420.jpg 854,704,977,973,0 935,707,1026,923,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090436.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090436.jpg 693,782,854,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090446.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090446.jpg 1209,692,1280,873,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090450.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090450.jpg 689,80,780,308,0 739,126,853,347,0 950,209,1080,450,0 916,593,1063,859,0 1142,636,1246,864,0 1178,645,1280,880,0 1157,884,1280,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090454.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090454.jpg 722,156,851,336,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090455.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090455.jpg 35,278,122,583,0 130,254,183,463,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090457.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090457.jpg 331,751,420,1024,0 411,678,526,946,0 652,61,769,321,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090462.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090462.jpg 4,615,82,890,0 68,560,157,863,0 169,597,254,869,0 277,710,395,974,0 417,733,491,1011,0 657,734,735,1005,0 797,842,881,934,0 942,916,1094,1024,0 1109,966,1185,1024,0 1219,489,1280,729,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090472.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090472.jpg 1155,392,1257,665,0 457,529,557,764,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090474.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090474.jpg 810,606,924,806,0 927,449,1021,673,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090475.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090475.jpg 658,871,763,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090480.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090480.jpg 642,159,739,374,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090499.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090499.jpg 684,196,751,365,0 719,158,787,388,0 1211,703,1280,907,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090510.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090510.jpg 431,498,544,728,0 511,645,651,839,0 621,739,717,982,0 713,653,818,930,0 997,773,1080,997,0 1054,700,1169,947,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090512.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090512.jpg 61,17,170,236,0 696,793,919,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090524.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090524.jpg 228,736,326,1010,0 718,915,814,1024,0 844,683,975,884,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090530.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090530.jpg 192,674,273,944,0 264,697,356,956,0 739,162,830,393,0 775,133,890,372,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090531.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090531.jpg 986,189,1088,466,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090539.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090539.jpg 2,372,61,540,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090544.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090544.jpg 388,396,459,624,0 447,382,524,621,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090545.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090545.jpg 1170,600,1280,852,0 404,646,528,842,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090564.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090564.jpg 272,137,419,369,0 481,555,542,715,0 672,672,759,885,0 1218,474,1280,659,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090568.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090568.jpg 569,123,686,339,0 1208,523,1279,742,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090570.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090570.jpg 728,448,796,654,0 682,671,781,836,0 1188,323,1245,606,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090577.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090577.jpg 220,190,345,357,0 791,141,854,343,0 551,756,626,1009,0 642,782,716,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090582.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090582.jpg 295,99,404,334,0 1028,210,1118,464,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090606.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090606.jpg 316,1,400,212,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090611.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090611.jpg 1068,423,1156,635,0 981,571,1094,799,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090618.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090618.jpg 222,731,333,1009,0 59,927,205,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090627.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090627.jpg 841,563,982,806,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090632.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090632.jpg 921,751,1073,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090679.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090679.jpg 683,806,901,1012,0 688,125,779,371,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090686.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090686.jpg 279,10,379,198,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090694.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090694.jpg 156,8,265,252,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090718.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090718.jpg 1162,392,1255,663,0 1219,235,1280,440,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090778.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090778.jpg 320,597,469,793,0 1012,470,1075,747,0 1094,492,1195,726,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090789.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090789.jpg 711,437,802,599,0 1187,326,1273,570,0 197,665,314,953,0 447,777,549,1021,0 810,874,935,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090804.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090804.jpg 1,608,81,898,0 75,564,178,839,0 190,596,257,879,0 313,701,401,980,0 408,703,486,1024,0 626,741,732,999,0 799,856,859,970,0 973,897,1071,1024,0 1084,936,1167,1024,0 1223,472,1280,721,0 1186,300,1280,484,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090806.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090806.jpg 1,435,74,622,0 69,497,202,728,0 285,585,403,805,0 878,703,984,974,0 952,707,1033,923,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090810.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090810.jpg 300,561,441,781,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090817.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090817.jpg 291,632,402,936,0 451,656,554,964,0 1110,366,1165,602,0 1187,364,1255,636,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090819.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090819.jpg 658,599,830,850,0 1143,603,1270,895,0 57,930,159,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090831.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090831.jpg 437,103,548,317,0 714,800,861,971,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090832.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090832.jpg 845,162,968,396,0 917,145,1022,378,0 1210,455,1280,705,0 1037,520,1125,766,0 1127,532,1199,773,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090840.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090840.jpg 674,189,777,375,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090843.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090843.jpg 1,597,101,871,0 109,559,203,834,0 205,608,288,912,0 304,714,384,999,0 405,712,501,1008,0 623,768,749,1024,0 791,884,838,1000,0 1026,920,1099,1024,0 1114,939,1156,1024,0 663,202,787,436,0 826,207,888,415,0 911,177,976,429,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090860.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090860.jpg 721,210,797,441,0 788,202,861,422,0 248,667,330,941,0 330,695,444,955,0 103,442,225,630,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090872.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090872.jpg 695,473,851,573,0 670,565,800,771,0 1154,334,1275,599,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090882.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090882.jpg 264,497,378,715,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090898.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090898.jpg 40,707,164,983,0 167,920,248,1009,0 339,925,448,1018,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090902.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090902.jpg 158,48,222,284,0 199,20,271,245,0 270,5,352,233,0 217,583,323,836,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090903.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090903.jpg 269,556,373,786,0 937,755,1078,972,0 1167,736,1257,981,0 1226,749,1278,1024,0 1148,562,1224,746,0 1186,559,1280,782,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090912.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090912.jpg 198,683,286,949,0 257,699,372,962,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090913.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090913.jpg 788,555,913,834,0 924,630,972,871,0 994,655,1072,914,0 1228,468,1280,659,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090922.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090922.jpg 635,599,727,878,0 730,662,801,908,0 887,718,996,991,0 951,579,1061,774,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090929.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090929.jpg 1138,370,1228,644,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090955.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090955.jpg 972,216,1020,451,0 1017,188,1069,423,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090958.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090958.jpg 760,801,857,988,0 1104,957,1182,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090979.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090979.jpg 394,81,494,313,0 1039,550,1185,787,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090982.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090982.jpg 409,464,540,685,0 920,597,1031,877,0 1132,614,1224,870,0 1159,650,1280,926,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090983.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090983.jpg 1175,387,1257,662,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/090989.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/090989.jpg 533,74,632,278,0 184,718,242,896,0 163,864,303,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/091009.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/091009.jpg 346,697,486,951,0 165,656,268,892,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/091024.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/091024.jpg 580,424,730,715,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/091030.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/091030.jpg 339,108,397,324,0 372,141,451,339,0 426,99,516,316,0 1182,384,1257,664,0 64,396,187,614,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/091042.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/091042.jpg 441,491,591,701,0 920,442,1026,669,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/091043.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/091043.jpg 1,613,65,891,0 41,598,136,903,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/091056.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/091056.jpg 959,546,1018,803,0 1023,581,1077,832,0 1139,617,1221,870,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/091060.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/091060.jpg 646,151,707,358,0 788,219,866,487,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/091070.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/091070.jpg 378,14,467,231,0 106,362,231,595,0 1127,260,1241,475,0 1059,653,1194,882,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/091073.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/091073.jpg 357,186,462,435,0 1238,516,1280,638,0 1235,251,1280,498,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/091078.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/091078.jpg 711,445,821,689,0 1111,654,1250,905,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/091086.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/091086.jpg 719,470,891,792,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/091087.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/091087.jpg 890,608,1032,834,0 1120,615,1234,872,0 352,95,457,318,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/091090.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/091090.jpg 40,483,172,686,0 134,439,280,683,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/091141.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/091141.jpg 403,82,512,323,0 1011,199,1138,454,0 1092,515,1205,819,0 1257,481,1280,696,0 874,637,1022,891,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/091147.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/091147.jpg 207,581,320,840,0 45,1,126,243,0 142,1,255,201,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/091158.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/091158.jpg 413,687,541,944,0 616,861,744,1024,0 1009,776,1143,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/091160.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/091160.jpg 1,386,89,596,0 676,851,767,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/091175.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/091175.jpg 216,580,322,834,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/091178.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/091178.jpg 1,601,92,903,0 93,578,157,888,0 174,596,290,880,0 317,701,391,970,0 408,726,515,1024,0 629,755,731,1024,0 787,856,879,1021,0 931,897,1063,1024,0 1082,946,1165,1024,0 1220,464,1280,692,0 850,179,951,416,0 947,180,1008,435,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/091203.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/091203.jpg 216,589,322,842,0 116,2,202,183,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/091211.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/091211.jpg 165,53,210,289,0 221,30,279,279,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/091220.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/091220.jpg 1033,293,1152,520,0 1178,385,1255,663,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/091232.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/091232.jpg 5,787,99,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/091246.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/091246.jpg 352,39,454,280,0 430,22,518,259,0 1030,514,1113,770,0 1118,535,1194,772,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/091247.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/091247.jpg 1126,271,1208,519,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/091255.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/091255.jpg 578,529,694,781,0 113,741,206,997,0 210,748,282,960,0 559,956,603,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/091256.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/091256.jpg 901,636,985,891,0 809,609,925,861,0 792,538,913,782,0 461,639,615,879,0 437,535,518,804,0 501,553,619,786,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100004.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100004.jpg 125,399,186,645,0 80,397,145,654,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100011.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100011.jpg 1070,135,1138,299,0 733,164,788,375,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100039.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100039.jpg 1094,104,1199,343,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100040.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100040.jpg 1073,36,1157,267,0 1149,51,1234,269,0 920,535,1062,754,0 1047,531,1200,811,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100046.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100046.jpg 920,112,1006,347,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100048.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100048.jpg 291,744,445,990,0 551,262,634,455,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100057.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100057.jpg 609,629,786,894,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100059.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100059.jpg 681,575,807,750,0 643,736,843,974,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100062.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100062.jpg 938,70,1032,305,0 124,386,226,636,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100074.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100074.jpg 1002,470,1145,700,0 656,192,762,424,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100075.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100075.jpg 1140,37,1230,269,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100087.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100087.jpg 88,433,204,689,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100122.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100122.jpg 926,102,981,275,0 978,98,1030,282,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100137.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100137.jpg 767,624,901,879,0 351,406,430,563,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100170.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100170.jpg 262,375,324,646,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100187.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100187.jpg 699,162,807,413,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100190.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100190.jpg 635,157,763,384,0 863,114,980,342,0 1056,85,1121,322,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100211.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100211.jpg 861,171,949,309,0 1199,19,1274,239,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100239.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100239.jpg 71,807,215,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100243.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100243.jpg 509,677,670,939,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100244.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100244.jpg 1181,429,1280,620,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100247.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100247.jpg 1213,71,1280,320,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100267.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100267.jpg 1109,29,1186,292,0 1178,81,1254,305,0 1205,19,1273,240,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100270.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100270.jpg 375,805,493,1012,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100293.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100293.jpg 377,254,494,512,0 476,282,571,520,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100296.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100296.jpg 49,886,190,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100298.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100298.jpg 800,179,862,390,0 662,148,730,386,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100304.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100304.jpg 566,293,630,521,0 646,173,713,402,0 705,189,785,383,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100305.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100305.jpg 1222,1,1280,165,0 89,413,160,684,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100310.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100310.jpg 803,498,913,786,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100315.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100315.jpg 935,532,1000,717,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100325.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100325.jpg 88,833,213,1024,0 1189,504,1280,725,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100326.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100326.jpg 71,423,177,711,0 157,470,213,692,0 271,442,344,666,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100335.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100335.jpg 423,262,535,494,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100362.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100362.jpg 842,102,953,342,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100384.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100384.jpg 951,593,1092,825,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100394.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100394.jpg 53,369,143,609,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100400.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100400.jpg 557,244,642,461,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100426.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100426.jpg 40,838,238,1024,0 409,356,517,571,0 635,173,715,401,0 761,142,820,343,0 808,175,893,371,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100446.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100446.jpg 578,220,650,428,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100453.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100453.jpg 1103,13,1185,229,0 1177,24,1238,251,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100458.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100458.jpg 349,397,409,633,0 501,662,659,938,0 736,120,828,350,0 878,117,924,313,0 932,152,1001,352,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100468.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100468.jpg 428,270,566,538,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100509.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100509.jpg 476,682,682,952,0 105,388,217,629,0 1115,88,1228,220,0 1140,162,1258,350,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100517.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100517.jpg 1144,55,1261,282,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100523.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100523.jpg 1196,486,1280,732,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100524.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100524.jpg 373,324,498,584,0 45,420,156,679,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100533.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100533.jpg 1071,121,1157,354,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100544.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100544.jpg 1086,457,1247,684,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100565.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100565.jpg 1123,52,1241,260,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100570.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100570.jpg 977,562,1213,835,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100571.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100571.jpg 454,196,538,429,0 778,135,867,325,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100573.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100573.jpg 1100,155,1191,334,0 1233,39,1280,217,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100587.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100587.jpg 373,246,493,477,0 469,231,546,504,0 1178,85,1280,324,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100591.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100591.jpg 721,662,785,864,0 440,309,513,557,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100598.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100598.jpg 940,488,1157,816,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100623.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100623.jpg 355,412,424,601,0 693,152,828,375,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100626.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100626.jpg 416,310,505,559,0 341,297,405,530,0 1043,69,1141,280,0 984,50,1032,279,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100631.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100631.jpg 419,313,501,536,0 342,301,434,532,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100660.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100660.jpg 861,590,1024,839,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100664.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100664.jpg 834,200,888,414,0 805,185,854,399,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100666.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100666.jpg 690,184,775,427,0 987,159,1030,312,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100689.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100689.jpg 140,365,216,660,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100705.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100705.jpg 939,135,1024,347,0 443,118,535,335,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100718.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100718.jpg 344,286,431,546,0 411,319,507,550,0 282,765,531,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100753.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100753.jpg 408,724,545,962,0 728,727,866,909,0 410,312,510,519,0 1060,129,1133,320,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100754.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100754.jpg 774,158,838,331,0 1065,87,1099,285,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100755.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100755.jpg 696,672,806,884,0 400,275,480,525,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100757.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100757.jpg 394,288,477,548,0 728,119,823,344,0 813,125,886,344,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100780.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100780.jpg 1140,427,1280,696,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100789.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100789.jpg 886,158,979,322,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100791.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100791.jpg 603,179,700,436,0 686,196,780,456,0 985,101,1028,275,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100804.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100804.jpg 778,131,897,361,0 1115,75,1257,324,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100810.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100810.jpg 1240,1,1280,200,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100818.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100818.jpg 284,806,381,1019,0 361,794,463,1004,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100824.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100824.jpg 687,178,738,397,0 739,188,830,379,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100826.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100826.jpg 940,554,1001,750,0 1071,135,1136,325,0 136,430,211,614,0 265,356,310,597,0 33,419,94,641,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100835.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100835.jpg 1066,524,1180,722,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100851.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100851.jpg 663,238,781,502,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100854.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100854.jpg 751,127,854,320,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100872.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100872.jpg 254,313,338,546,0 346,355,432,562,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100907.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100907.jpg 1118,59,1236,262,0 651,162,743,395,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100924.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100924.jpg 1070,147,1145,332,0 1208,29,1261,197,0 488,247,537,446,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100929.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100929.jpg 33,469,100,717,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100930.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100930.jpg 103,369,200,630,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100943.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100943.jpg 247,369,340,613,0 681,646,881,954,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100957.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100957.jpg 936,104,1041,330,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100969.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100969.jpg 793,115,881,320,0 940,629,1009,846,0 988,616,1085,859,0 892,497,977,670,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100973.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100973.jpg 89,835,230,1024,0 785,163,888,416,0 701,135,781,302,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100974.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100974.jpg 151,324,223,570,0 988,181,1030,308,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100977.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100977.jpg 783,103,845,351,0 864,109,922,343,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/100987.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/100987.jpg 78,535,178,786,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/101008.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/101008.jpg 496,699,636,895,0 1088,487,1220,690,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/101014.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/101014.jpg 681,212,791,447,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/101023.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/101023.jpg 1088,47,1180,294,0 834,151,887,332,0 881,168,951,350,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/101025.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/101025.jpg 1170,75,1265,300,0 955,140,1038,315,0 1073,37,1180,280,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/101029.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/101029.jpg 406,246,508,476,0 1111,132,1192,299,0 1048,74,1108,262,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/101030.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/101030.jpg 601,262,680,508,0 830,187,908,393,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/101048.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/101048.jpg 338,716,476,954,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/101062.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/101062.jpg 40,458,121,728,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/101066.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/101066.jpg 767,111,859,344,0 849,158,921,294,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/101072.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/101072.jpg 255,336,332,559,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/101080.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/101080.jpg 665,175,765,415,0 470,309,573,514,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/101084.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/101084.jpg 117,466,200,708,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/101092.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/101092.jpg 676,661,806,884,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/101093.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/101093.jpg 596,273,688,506,0 50,840,226,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/101094.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/101094.jpg 349,328,437,581,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/101101.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/101101.jpg 1092,70,1183,284,0 653,613,788,811,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/101102.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/101102.jpg 1070,130,1135,317,0 808,147,895,364,0 720,147,795,380,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/101103.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/101103.jpg 33,460,136,680,0 937,532,1006,739,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/101108.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/101108.jpg 780,157,861,352,0 675,144,763,305,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/101111.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/101111.jpg 343,755,468,985,0 455,290,525,510,0 415,260,490,494,0 1073,137,1146,327,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/101120.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/101120.jpg 69,420,169,681,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/101121.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/101121.jpg 98,839,218,1020,0 36,467,93,677,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/101129.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/101129.jpg 613,169,693,414,0 786,157,868,372,0 697,220,764,417,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/101135.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/101135.jpg 1072,109,1147,312,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/101136.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/101136.jpg 772,54,843,254,0 699,257,761,431,0 417,734,514,995,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/101151.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/101151.jpg 499,310,539,499,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/101154.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/101154.jpg 930,137,1035,352,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/101172.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/101172.jpg 1205,29,1280,244,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/101191.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/101191.jpg 751,576,891,813,0 1147,146,1217,349,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/101203.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/101203.jpg 473,700,601,930,0 601,184,711,410,0 990,181,1029,301,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/101211.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/101211.jpg 1112,41,1208,250,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/101212.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/101212.jpg 850,60,944,268,0 273,782,427,1021,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/101216.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/101216.jpg 339,225,434,443,0 461,289,528,496,0 716,207,800,427,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/101217.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/101217.jpg 1101,81,1183,292,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/101233.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/101233.jpg 1105,147,1193,345,0 1203,1,1280,175,0 1086,1,1166,155,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/101237.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/101237.jpg 358,316,441,525,0 750,182,863,422,0 985,147,1024,329,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/101250.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/101250.jpg 1135,79,1206,259,0 1063,155,1126,304,0 1228,7,1280,280,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/101284.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/101284.jpg 943,544,1042,767,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/101285.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/101285.jpg 1055,92,1119,275,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/101294.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/101294.jpg 530,695,661,899,0 1075,565,1170,779,0 644,248,733,483,0 355,359,422,558,0 164,354,210,550,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/101296.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/101296.jpg 527,800,602,978,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/101304.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/101304.jpg 755,586,873,854,0 843,612,904,839,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/101310.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/101310.jpg 997,175,1115,383,0 620,136,716,379,0 705,167,797,411,0 249,300,338,604,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/110002.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/110002.jpg 765,408,823,534,0 837,425,886,547,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/110008.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/110008.jpg 101,868,178,1024,0 179,846,262,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/110010.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/110010.jpg 108,872,195,1024,0 194,806,261,998,0 125,767,180,916,0 516,588,604,768,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/110011.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/110011.jpg 166,828,270,1012,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/110034.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/110034.jpg 655,479,729,667,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/110040.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/110040.jpg 132,724,187,911,0 381,750,445,919,0 671,457,740,609,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/110059.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/110059.jpg 86,819,162,1015,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/110067.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/110067.jpg 160,811,222,1014,0 372,749,426,931,0 597,511,688,701,0 579,813,640,895,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/110102.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/110102.jpg 132,723,183,910,0 189,759,260,946,0 366,808,422,970,0 609,502,675,691,0 672,519,723,697,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/110123.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/110123.jpg 725,413,782,572,0 972,439,1032,623,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/110132.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/110132.jpg 133,725,184,912,0 436,667,508,855,0 504,669,569,855,0 748,412,809,546,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/110142.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/110142.jpg 61,906,121,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/110160.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/110160.jpg 130,723,190,909,0 633,467,705,639,0 704,462,762,635,0 852,363,892,530,0 959,397,1006,539,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/110164.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/110164.jpg 133,724,187,910,0 839,314,883,471,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/110182.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/110182.jpg 102,831,171,1024,0 194,815,277,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/110186.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/110186.jpg 105,751,175,953,0 583,506,642,690,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/110206.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/110206.jpg 63,898,97,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/110218.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/110218.jpg 128,765,179,955,0 599,539,667,722,0 662,545,734,728,0 884,512,957,692,0 818,330,852,495,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/110243.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/110243.jpg 223,811,295,996,0 153,785,216,974,0 629,469,700,658,0 701,489,756,651,0 131,722,179,905,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/110268.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/110268.jpg 723,424,787,581,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/110276.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/110276.jpg 570,530,654,725,0 689,540,755,729,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/110309.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/110309.jpg 104,786,158,973,0 436,709,513,901,0 501,826,583,992,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/110324.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/110324.jpg 108,786,158,976,0 732,473,800,656,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/110351.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/110351.jpg 125,764,178,950,0 388,714,437,890,0 435,717,498,899,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/110356.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/110356.jpg 833,749,915,849,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/110366.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/110366.jpg 121,766,175,954,0 488,671,554,867,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/110370.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/110370.jpg 584,516,654,707,0 651,539,700,707,0 697,447,765,619,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/110383.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/110383.jpg 124,761,175,952,0 618,554,672,739,0 750,419,819,566,0 826,409,895,576,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/110385.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/110385.jpg 64,908,133,1024,0 130,885,200,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/110399.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/110399.jpg 483,717,562,857,0 501,639,560,723,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/110423.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/110423.jpg
+/home/lisongtao/datasets/LLVIP/valid/rgb/110427.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/110427.jpg 77,887,138,1024,0 115,751,176,955,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/110447.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/110447.jpg 100,799,168,991,0 172,781,249,994,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/110455.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/110455.jpg 892,648,973,811,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/110464.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/110464.jpg 106,752,173,956,0 747,411,803,549,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/110475.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/110475.jpg 124,762,177,957,0 676,450,724,606,0 726,445,785,621,0 946,498,1008,651,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/120016.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/120016.jpg 558,742,614,888,0 617,762,696,929,0 697,770,777,914,0 984,559,1049,730,0 1059,561,1111,743,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/120019.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/120019.jpg 1123,501,1163,659,0 1133,541,1176,726,0 1194,523,1253,659,0 1153,413,1212,549,0 1177,619,1231,766,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/120031.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/120031.jpg 662,714,723,914,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/120037.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/120037.jpg 1083,471,1143,644,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/120044.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/120044.jpg 1124,537,1206,725,0 1214,595,1280,730,0 458,798,492,957,0 493,803,548,894,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/120045.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/120045.jpg 1201,571,1280,769,0 1058,595,1139,772,0 1034,552,1111,740,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/120050.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/120050.jpg 1110,551,1175,735,0 1185,559,1246,722,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/120058.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/120058.jpg 592,834,639,983,0 877,636,944,835,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/120065.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/120065.jpg 852,592,933,758,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/120083.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/120083.jpg 927,656,1027,824,0 418,822,488,979,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/120089.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/120089.jpg 796,706,863,891,0 871,718,938,887,0 829,619,892,770,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/120094.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/120094.jpg 581,717,661,884,0 1048,583,1117,758,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/120104.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/120104.jpg 716,646,801,826,0 804,655,866,857,0 881,651,939,838,0 928,666,983,860,0 1000,674,1073,816,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/120117.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/120117.jpg 628,691,717,882,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/120120.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/120120.jpg 818,653,886,832,0 829,612,880,731,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/120135.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/120135.jpg 1175,554,1243,734,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/120143.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/120143.jpg 754,658,828,838,0 829,680,902,854,0 1015,512,1064,689,0 1111,530,1176,707,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/120172.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/120172.jpg 705,714,793,894,0 1080,586,1163,758,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/120179.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/120179.jpg 1126,567,1217,769,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/120232.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/120232.jpg 461,778,536,970,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/120236.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/120236.jpg 1048,571,1137,763,0 1162,917,1247,1023,0 1230,897,1280,1013,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/120259.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/120259.jpg 892,720,958,898,0 898,675,948,728,0 963,695,1031,817,0 761,744,835,891,0 688,738,753,908,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/120261.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/120261.jpg 705,738,786,900,0 918,530,974,726,0 969,585,1024,766,0 1021,538,1076,733,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/120266.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/120266.jpg 743,781,799,926,0 739,724,805,804,0 816,753,880,922,0 596,818,664,956,0 518,815,578,961,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/120287.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/120287.jpg 1178,561,1227,736,0 1238,568,1275,749,0 1200,447,1247,614,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/120295.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/120295.jpg 491,746,571,933,0 594,757,649,935,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/120300.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/120300.jpg 1024,614,1098,795,0 1090,613,1176,750,0 1237,501,1280,695,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/120305.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/120305.jpg 831,587,892,794,0 1148,581,1225,750,0 1005,923,1100,1018,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/120307.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/120307.jpg 777,704,838,896,0 837,730,903,900,0 1046,555,1115,730,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/120308.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/120308.jpg 612,692,693,869,0 878,670,943,837,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/120313.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/120313.jpg 435,773,494,965,0 610,820,676,991,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/120319.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/120319.jpg 1147,454,1220,627,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/120327.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/120327.jpg 690,858,722,1019,0 761,723,800,882,0 817,712,858,907,0 935,748,997,894,0 1088,619,1154,785,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/120334.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/120334.jpg 616,851,702,962,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/120337.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/120337.jpg 583,744,646,916,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/120339.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/120339.jpg 1186,521,1239,694,0 510,773,554,933,0 563,781,633,946,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/120345.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/120345.jpg 658,750,734,939,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/120358.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/120358.jpg 559,793,644,964,0 680,710,759,914,0 781,748,856,923,0 1194,435,1253,619,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/120359.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/120359.jpg 1121,503,1194,684,0 1182,513,1240,699,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/120368.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/120368.jpg 1106,553,1167,747,0 1158,563,1248,746,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/120385.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/120385.jpg 1021,485,1076,662,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/120390.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/120390.jpg 603,746,669,912,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/120416.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/120416.jpg 935,617,1022,808,0 1035,639,1092,781,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/120428.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/120428.jpg 493,758,535,930,0 537,743,609,925,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/120430.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/120430.jpg 1088,540,1162,710,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/120437.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/120437.jpg 908,651,977,824,0 991,651,1039,801,0 1109,636,1138,756,0 1101,581,1131,645,0 1159,597,1217,760,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/120445.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/120445.jpg 818,692,850,856,0 866,693,915,881,0 916,698,974,867,0 812,629,853,742,0 856,610,913,731,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/120453.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/120453.jpg 949,591,1040,796,0 783,736,847,922,0 727,731,805,932,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/120457.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/120457.jpg 785,645,839,812,0 840,662,921,838,0 444,850,552,970,0 1106,578,1165,728,0 1158,598,1202,754,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/130012.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/130012.jpg 451,146,508,341,0 509,109,567,271,0 1000,376,1068,559,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/130021.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/130021.jpg 960,339,1050,558,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/130024.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/130024.jpg 712,543,780,748,0 712,441,796,585,0 818,448,884,674,0 828,359,927,456,0 1023,329,1080,515,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/130028.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/130028.jpg 407,542,478,747,0 107,625,193,855,0 173,655,243,849,0 994,344,1058,542,0 1054,400,1107,570,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/130041.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/130041.jpg 747,424,843,624,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/130042.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/130042.jpg 699,441,783,626,0 770,439,839,648,0 988,326,1046,520,0 492,134,581,337,0 428,559,489,782,0 482,618,575,826,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/130050.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/130050.jpg 451,119,526,305,0 812,385,866,545,0 849,413,915,546,0 872,774,945,996,0 593,880,709,1014,0 239,629,327,831,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/130052.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/130052.jpg 984,320,1066,532,0 516,130,597,316,0 356,500,457,731,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/130054.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/130054.jpg 696,461,756,662,0 748,451,821,670,0 514,75,566,249,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/130060.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/130060.jpg 977,321,1079,507,0 799,501,877,698,0 708,470,771,680,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/130062.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/130062.jpg 327,686,400,837,0 709,538,780,757,0 707,321,768,502,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/130066.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/130066.jpg 795,765,904,979,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/130081.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/130081.jpg 699,565,781,752,0 971,412,1043,602,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/130097.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/130097.jpg 732,503,807,724,0 799,364,890,589,0 882,408,955,618,0 46,725,148,945,0 129,690,212,872,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/130104.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/130104.jpg 711,534,770,746,0 757,532,790,706,0 795,434,867,636,0 852,348,924,547,0 852,954,932,1014,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/130122.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/130122.jpg 1000,313,1088,509,0 1164,333,1217,534,0 1185,377,1257,585,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/130133.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/130133.jpg 630,866,738,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/130140.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/130140.jpg 240,584,315,827,0 191,598,270,801,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/130165.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/130165.jpg 266,580,365,795,0 559,924,606,1021,0 886,451,957,656,0 1197,258,1274,462,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/130166.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/130166.jpg 568,529,645,719,0 524,508,583,683,0 445,105,517,279,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/130167.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/130167.jpg 910,435,972,642,0 738,413,789,559,0 799,445,849,519,0 373,574,491,764,0 447,140,522,323,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/130169.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/130169.jpg 585,462,667,652,0 27,741,115,968,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/130186.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/130186.jpg 473,572,543,792,0 529,592,606,794,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/130218.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/130218.jpg 116,670,169,881,0 215,689,298,908,0 696,566,782,752,0 889,784,958,977,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/130222.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/130222.jpg 200,577,288,775,0 657,528,745,757,0 1145,276,1218,450,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/130228.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/130228.jpg 238,728,325,901,0 894,447,972,660,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/130229.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/130229.jpg 505,489,581,702,0 558,530,643,702,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/130230.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/130230.jpg 219,690,288,877,0 582,529,632,728,0 561,502,596,716,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/130279.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/130279.jpg 493,517,591,709,0 1008,344,1095,546,0 1104,342,1190,555,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/130280.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/130280.jpg 788,397,872,596,0 859,427,926,624,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/130286.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/130286.jpg 444,552,507,752,0 647,90,715,271,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/130289.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/130289.jpg 229,644,305,871,0 589,508,636,722,0 682,530,755,731,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/130315.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/130315.jpg 92,660,171,852,0 712,531,784,749,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/130316.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/130316.jpg 962,337,1027,536,0 697,892,831,1015,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/130321.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/130321.jpg 726,545,814,742,0 866,384,927,577,0 349,702,425,866,0 435,598,496,802,0 351,580,417,680,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/130327.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/130327.jpg 31,716,127,949,0 276,599,347,797,0 710,540,781,747,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/130330.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/130330.jpg 711,532,785,749,0 27,679,121,912,0 778,405,850,592,0 961,757,1061,941,0 555,609,614,774,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/130338.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/130338.jpg 1029,291,1096,490,0 1115,327,1174,525,0 300,686,375,894,0 222,677,310,905,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/130354.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/130354.jpg 324,547,385,773,0 382,580,466,792,0 488,580,573,805,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/130357.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/130357.jpg 782,403,854,537,0 715,490,775,564,0 441,134,481,284,0 1206,247,1275,520,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/130369.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/130369.jpg 181,674,292,886,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/130373.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/130373.jpg 471,179,570,396,0 387,580,466,825,0 193,595,287,824,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/130374.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/130374.jpg 750,832,862,979,0 728,534,796,741,0 213,681,290,860,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/130376.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/130376.jpg 560,563,628,766,0 717,557,786,747,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/130380.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/130380.jpg 206,618,325,832,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/130403.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/130403.jpg 93,668,166,910,0 204,727,262,922,0 1124,728,1199,943,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/130411.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/130411.jpg 54,684,108,914,0 106,709,167,925,0 634,918,737,1024,0 697,563,782,751,0 1137,655,1202,847,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/130421.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/130421.jpg 662,508,718,723,0 728,545,777,730,0 759,527,851,762,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/130430.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/130430.jpg 848,366,937,561,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/130468.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/130468.jpg 689,467,767,707,0 456,609,524,798,0 1051,298,1123,493,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/130471.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/130471.jpg 702,397,806,626,0 789,437,854,645,0 825,469,914,697,0 825,764,938,1008,0 29,706,101,914,0 1,793,34,975,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/130473.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/130473.jpg 654,44,734,243,0 545,502,626,709,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/130475.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/130475.jpg 946,412,1031,601,0 387,568,484,790,0 306,558,393,775,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/130476.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/130476.jpg 871,416,952,595,0 818,386,893,533,0 664,495,730,732,0 543,486,618,733,0 18,685,144,906,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/130478.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/130478.jpg 892,351,958,562,0 947,400,1020,574,0 11,702,77,930,0 63,727,125,940,0 847,761,940,985,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/130481.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/130481.jpg 374,536,430,795,0 424,524,489,790,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/130494.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/130494.jpg 733,408,780,544,0 768,439,814,515,0 110,669,199,887,0 720,851,799,1013,0 446,102,523,291,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/130496.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/130496.jpg 405,506,492,692,0 460,555,528,744,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/130497.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/130497.jpg 585,487,643,681,0 650,470,704,685,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/130498.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/130498.jpg 2,698,91,896,0 1164,280,1230,457,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/140006.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/140006.jpg 209,221,295,496,0 640,218,762,468,0 739,254,815,505,0 855,273,942,521,0 510,834,683,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/140009.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/140009.jpg 1078,231,1182,470,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/140014.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/140014.jpg 695,315,809,551,0 631,247,742,502,0 731,855,819,1024,0 936,857,1041,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/140017.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/140017.jpg 414,830,606,1024,0 664,233,800,475,0 665,407,810,643,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/140021.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/140021.jpg 959,234,1065,483,0 148,895,222,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/140038.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/140038.jpg 495,337,588,591,0 557,306,642,541,0 440,260,564,523,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/140051.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/140051.jpg 227,325,396,584,0 558,462,658,636,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/140065.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/140065.jpg 880,247,988,488,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/140078.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/140078.jpg 973,121,1058,367,0 1059,213,1166,440,0 1183,152,1280,394,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/140084.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/140084.jpg 574,216,714,501,0 661,781,788,1012,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/140102.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/140102.jpg 558,467,657,648,0 612,237,714,497,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/140105.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/140105.jpg 889,238,984,505,0 976,125,1051,370,0 1151,147,1224,384,0 1177,206,1280,422,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/140121.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/140121.jpg 871,156,987,428,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/140128.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/140128.jpg 731,336,819,569,0 859,254,940,490,0 873,199,936,419,0 754,198,830,408,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/140136.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/140136.jpg 211,494,306,759,0 477,760,625,1003,0 578,754,682,1010,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/140140.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/140140.jpg 983,167,1093,407,0 462,306,579,580,0 407,285,506,496,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/140158.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/140158.jpg 902,651,1032,877,0 27,929,111,1024,0 1240,103,1280,317,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/140183.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/140183.jpg 1,378,44,644,0 678,782,798,973,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/140213.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/140213.jpg 300,526,392,706,0 864,718,958,957,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/140217.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/140217.jpg 617,370,711,638,0 1068,156,1134,400,0 991,91,1114,358,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/140222.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/140222.jpg 206,221,290,499,0 278,861,423,1023,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/140226.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/140226.jpg 211,505,291,757,0 866,252,945,483,0 940,124,1017,388,0 1143,599,1272,841,0 867,397,913,447,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/140230.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/140230.jpg 405,244,510,524,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/140233.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/140233.jpg 312,844,454,1024,0 213,242,317,493,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/140241.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/140241.jpg 907,244,1032,503,0 867,208,959,458,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/140248.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/140248.jpg 607,337,710,607,0 258,861,391,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/140250.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/140250.jpg 1,401,55,600,0 1,212,51,503,0 166,289,272,469,0 653,365,762,632,0 870,184,948,423,0 930,225,1014,477,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/140255.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/140255.jpg 522,258,626,514,0 654,403,751,652,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/140257.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/140257.jpg 378,784,550,1018,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/140265.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/140265.jpg 58,490,123,717,0 660,216,746,470,0 748,181,817,411,0 1052,225,1162,488,0 995,160,1112,434,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/140270.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/140270.jpg 218,228,325,502,0 117,217,228,514,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/140276.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/140276.jpg 635,345,743,602,0 1194,114,1280,390,0 1191,105,1280,354,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/140306.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/140306.jpg 387,182,458,425,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/140312.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/140312.jpg 541,273,633,519,0 489,240,590,499,0 944,197,1084,460,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/140315.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/140315.jpg 640,419,739,651,0 617,266,757,505,0 931,258,1027,491,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/140345.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/140345.jpg 304,359,448,584,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/140366.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/140366.jpg 421,349,531,599,0 237,333,366,533,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/140402.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/140402.jpg 247,399,364,654,0 193,367,279,594,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/140410.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/140410.jpg 645,274,771,547,0 994,224,1089,457,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/140432.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/140432.jpg 758,193,840,415,0 603,705,736,958,0 941,205,1054,469,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/140441.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/140441.jpg 917,675,1042,917,0 216,238,305,496,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/140448.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/140448.jpg 613,298,721,538,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/140458.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/140458.jpg 1019,232,1114,483,0 988,646,1089,827,0 1062,670,1151,857,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/140463.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/140463.jpg 1160,618,1265,795,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/140465.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/140465.jpg 441,880,579,1024,0 596,409,739,647,0 858,211,959,425,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/140466.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/140466.jpg 329,237,416,517,0 650,197,743,464,0 688,448,796,651,0 1003,240,1088,471,0 104,154,212,284,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/140478.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/140478.jpg 731,254,825,532,0 1181,664,1280,935,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/140494.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/140494.jpg 591,203,684,463,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/140515.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/140515.jpg 1072,209,1178,460,0 254,329,379,608,0 236,311,353,583,0 866,662,999,897,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/140528.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/140528.jpg 961,200,1088,453,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/140544.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/140544.jpg 408,327,546,592,0 206,221,297,503,0 407,802,547,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/140545.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/140545.jpg 605,410,699,648,0 873,201,943,429,0 910,655,1051,922,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/140553.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/140553.jpg 371,380,452,617,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/140555.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/140555.jpg 421,441,510,650,0 730,806,807,993,0 887,199,962,451,0 943,238,1059,477,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150008.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150008.jpg 257,225,355,491,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150033.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150033.jpg 175,158,283,456,0 1047,136,1163,400,0 1061,202,1173,467,0 1066,173,1165,447,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150044.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150044.jpg 473,781,599,1022,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150052.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150052.jpg 162,246,329,517,0 151,187,258,444,0 1083,210,1209,512,0 1115,692,1256,966,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150062.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150062.jpg 460,293,603,589,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150065.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150065.jpg 149,282,243,554,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150073.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150073.jpg 579,137,746,390,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150082.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150082.jpg 862,701,1004,982,0 588,177,724,454,0 482,301,591,603,0 458,240,566,523,0 171,203,306,471,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150098.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150098.jpg 169,829,352,1024,0 1035,139,1116,412,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150128.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150128.jpg 568,734,743,997,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150138.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150138.jpg 1029,87,1106,348,0 80,854,250,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150143.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150143.jpg 1172,49,1273,335,0 1164,608,1280,876,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150146.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150146.jpg 669,303,804,582,0 646,347,729,541,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150147.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150147.jpg 826,116,965,388,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150148.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150148.jpg 8,466,36,501,0 799,817,975,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150157.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150157.jpg 142,347,285,619,0 125,310,273,588,0 1129,1,1258,244,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150173.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150173.jpg 151,277,258,584,0 1037,728,1232,1001,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150175.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150175.jpg 214,260,351,564,0 2,838,114,1024,0 192,223,331,510,0 1177,178,1277,459,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150178.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150178.jpg 570,740,742,1024,0 1021,119,1151,399,0 1114,1,1241,243,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150183.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150183.jpg 508,308,608,591,0 462,251,604,542,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150185.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150185.jpg 625,750,809,1010,0 1065,1,1191,231,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150197.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150197.jpg 421,269,557,556,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150200.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150200.jpg 179,244,324,493,0 469,228,624,511,0 889,252,1021,528,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150205.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150205.jpg 544,710,685,955,0 670,779,755,947,0 935,754,1112,1024,0 957,79,1051,358,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150207.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150207.jpg 258,275,399,563,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150209.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150209.jpg 155,758,354,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150214.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150214.jpg 899,96,1028,425,0 221,217,352,525,0 214,197,340,489,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150215.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150215.jpg 664,121,831,399,0 1132,668,1277,966,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150217.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150217.jpg 771,146,865,426,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150227.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150227.jpg 771,832,940,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150230.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150230.jpg 1069,162,1214,452,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150237.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150237.jpg 422,275,566,550,0 637,355,762,668,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150249.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150249.jpg 831,224,931,526,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150253.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150253.jpg 247,803,423,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150254.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150254.jpg 747,150,891,414,0 1213,106,1280,379,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150255.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150255.jpg 925,738,1052,1003,0 998,725,1134,988,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150257.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150257.jpg 521,133,633,410,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150269.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150269.jpg 1,765,162,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150280.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150280.jpg 799,177,948,470,0 1104,667,1279,931,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150300.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150300.jpg 1,185,163,466,0 871,225,1027,502,0 832,158,966,415,0 898,225,991,465,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150307.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150307.jpg 831,247,962,499,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150312.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150312.jpg 420,143,515,425,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150315.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150315.jpg 738,759,851,943,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150317.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150317.jpg 752,650,910,954,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150335.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150335.jpg 883,270,995,551,0 851,150,952,438,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150346.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150346.jpg 975,121,1140,409,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150354.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150354.jpg 325,812,445,1024,0 857,158,993,422,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150360.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150360.jpg 853,162,944,420,0 814,103,965,380,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150372.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150372.jpg 965,173,1077,415,0 1018,104,1116,377,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150374.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150374.jpg 835,231,944,523,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150382.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150382.jpg 611,780,776,1021,0 1198,146,1280,463,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150384.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150384.jpg 231,284,377,545,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150398.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150398.jpg 553,172,647,453,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150402.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150402.jpg 815,169,960,423,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150404.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150404.jpg 669,114,790,408,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150415.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150415.jpg 740,827,895,1024,0 1069,630,1227,842,0 1141,712,1280,959,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150434.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150434.jpg 403,158,504,419,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150437.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150437.jpg 532,187,679,444,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150461.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150461.jpg 99,930,269,1024,0 420,373,505,614,0 821,720,965,951,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150489.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150489.jpg 504,235,610,530,0 140,211,264,490,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150491.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150491.jpg 704,291,855,572,0 1120,1,1237,240,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150502.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150502.jpg 130,334,260,611,0 135,306,275,552,0 138,248,228,480,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150505.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150505.jpg 460,800,594,1024,0 1126,1,1234,235,0 1206,158,1280,360,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150515.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150515.jpg 425,321,560,603,0 1017,673,1223,943,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150522.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150522.jpg 458,220,563,479,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150550.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150550.jpg 215,295,377,588,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150574.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150574.jpg 617,704,777,979,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/150596.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/150596.jpg 585,725,764,987,0 928,169,1064,418,0 223,347,332,610,0 218,211,328,495,0 212,169,365,443,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/160003.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/160003.jpg 585,729,652,938,0 640,754,733,967,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/160005.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/160005.jpg 976,571,1066,804,0 354,913,440,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/160030.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/160030.jpg 421,816,524,1024,0 283,832,366,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/160050.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/160050.jpg 318,830,404,1024,0 947,701,1039,924,0 908,681,959,904,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/160059.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/160059.jpg 890,751,993,959,0 1196,578,1273,828,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/160063.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/160063.jpg 457,838,533,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/160069.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/160069.jpg 578,712,648,934,0 644,695,702,942,0 665,739,729,978,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/160101.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/160101.jpg 1117,595,1206,835,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/160105.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/160105.jpg 287,836,343,955,0 317,898,378,1022,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/160109.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/160109.jpg 981,658,1052,871,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/160131.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/160131.jpg 939,670,1005,906,0 900,632,969,838,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/160166.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/160166.jpg 372,809,458,1017,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/160181.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/160181.jpg 627,729,719,947,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/160188.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/160188.jpg 571,809,648,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/160200.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/160200.jpg 1149,601,1250,810,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/160213.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/160213.jpg 331,813,397,1024,0 941,686,1049,935,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/160225.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/160225.jpg 477,825,536,1024,0 290,869,353,1018,0 295,755,360,906,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/160230.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/160230.jpg 643,826,738,1024,0 1115,587,1187,773,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/160246.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/160246.jpg 571,696,653,916,0 661,691,731,928,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/160249.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/160249.jpg 906,688,991,936,0 360,805,467,1023,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/160260.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/160260.jpg 914,603,993,821,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/160280.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/160280.jpg 804,669,838,910,0 892,709,934,935,0 1198,580,1275,810,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/160283.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/160283.jpg 892,626,941,831,0 926,639,1004,862,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/160287.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/160287.jpg 319,804,407,1024,0 1134,607,1203,845,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/160288.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/160288.jpg 451,796,537,1004,0 512,773,617,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/160296.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/160296.jpg 796,671,855,921,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/160298.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/160298.jpg 896,647,967,880,0 796,670,858,881,0 649,897,721,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/160320.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/160320.jpg 919,630,993,838,0 635,836,741,1024,0 350,785,427,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/160327.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/160327.jpg 1005,633,1069,878,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/160343.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/160343.jpg 1198,524,1258,756,0 791,875,849,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/160355.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/160355.jpg 588,793,661,964,0 399,738,521,978,0 277,831,346,1020,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/160363.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/160363.jpg 648,681,729,924,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/160368.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/160368.jpg 824,863,883,1024,0 568,824,635,1022,0 484,825,548,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/160384.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/160384.jpg 430,813,515,1024,0 344,823,433,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/160415.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/160415.jpg 616,698,709,923,0 435,838,535,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/160434.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/160434.jpg 637,737,740,916,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/160437.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/160437.jpg 676,692,740,931,0 589,885,667,1021,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/160444.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/160444.jpg 813,859,884,1024,0 569,717,649,957,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/160454.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/160454.jpg 592,744,690,969,0 511,707,589,943,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/160455.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/160455.jpg 905,600,985,842,0 984,621,1060,853,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/160459.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/160459.jpg 951,609,1003,836,0 979,632,1033,867,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/160464.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/160464.jpg 1003,617,1079,824,0 805,847,886,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/160467.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/160467.jpg 953,643,1026,883,0 999,675,1086,895,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/160483.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/160483.jpg 615,891,703,1012,0 1203,484,1280,740,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/160488.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/160488.jpg 658,809,728,958,0 1117,628,1168,831,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/160498.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/160498.jpg 1175,514,1237,725,0 1231,532,1280,754,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/160535.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/160535.jpg 349,770,446,995,0 669,900,729,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/160541.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/160541.jpg 797,707,856,961,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/160546.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/160546.jpg 791,703,862,928,0 783,866,856,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/160551.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/160551.jpg 1016,642,1072,875,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/160565.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/160565.jpg 783,867,838,1024,0 888,686,975,890,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/170017.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/170017.jpg 1102,467,1190,700,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/170035.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/170035.jpg 1060,479,1147,702,0 687,675,782,894,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/170049.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/170049.jpg 1043,516,1123,765,0 1116,560,1182,787,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/170051.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/170051.jpg 728,562,805,792,0 752,517,818,740,0 930,634,1045,831,0 281,719,405,943,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/170055.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/170055.jpg 1035,467,1116,699,0 891,657,972,858,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/170059.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/170059.jpg 571,762,671,977,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/170087.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/170087.jpg 739,700,822,911,0 588,707,676,868,0 749,600,855,751,0 943,505,1032,746,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/170093.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/170093.jpg 715,583,811,832,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/170096.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/170096.jpg 921,627,972,833,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/170103.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/170103.jpg 734,591,818,841,0 799,634,888,852,0 1004,567,1060,800,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/170121.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/170121.jpg 273,809,351,1017,0 1024,521,1117,758,0 1094,519,1174,761,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/170126.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/170126.jpg 1087,478,1135,706,0 1114,560,1192,804,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/170129.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/170129.jpg 183,853,252,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/170130.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/170130.jpg 700,680,810,910,0 1,785,45,1005,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/170139.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/170139.jpg 345,733,431,1020,0 438,728,530,966,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/170142.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/170142.jpg 1104,506,1199,767,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/170144.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/170144.jpg 376,678,455,913,0 454,705,527,941,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/170156.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/170156.jpg 508,699,588,978,0 570,729,671,959,0 408,682,506,903,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/170158.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/170158.jpg 702,623,802,843,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/170214.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/170214.jpg 1000,534,1077,755,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/170216.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/170216.jpg 1027,528,1118,739,0 1120,532,1209,764,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/170228.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/170228.jpg 1050,573,1143,798,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/170230.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/170230.jpg 791,626,865,886,0 694,547,767,749,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/170234.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/170234.jpg 579,661,645,869,0 628,681,677,881,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/170244.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/170244.jpg 805,577,906,815,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/170253.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/170253.jpg 479,642,584,881,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/170259.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/170259.jpg 340,758,407,945,0 277,773,343,927,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/170274.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/170274.jpg 1025,463,1127,700,0 1127,569,1195,784,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/170278.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/170278.jpg 1137,503,1201,719,0 1216,506,1280,740,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/170279.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/170279.jpg 708,646,825,898,0 911,664,984,874,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/170281.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/170281.jpg 1013,556,1083,773,0 1066,579,1115,786,0 1101,599,1169,792,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/170285.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/170285.jpg 805,659,861,879,0 837,676,909,908,0 924,540,997,769,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/170288.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/170288.jpg 722,578,797,824,0 775,622,857,841,0 1040,461,1104,687,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/170290.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/170290.jpg 800,585,896,843,0 1061,568,1172,773,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/170296.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/170296.jpg 397,696,461,939,0 447,719,527,949,0 750,700,856,930,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/170308.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/170308.jpg 589,684,664,911,0 671,697,764,898,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/170311.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/170311.jpg 1066,516,1146,737,0 1146,558,1243,772,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/170328.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/170328.jpg 1057,519,1170,765,0 1220,522,1280,757,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/170331.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/170331.jpg 1051,528,1153,775,0 918,620,1000,866,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/170349.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/170349.jpg 1013,596,1092,799,0 1216,459,1280,653,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/170353.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/170353.jpg 476,669,551,879,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/170354.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/170354.jpg 1014,557,1108,759,0 442,773,524,1022,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/170358.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/170358.jpg 8,837,84,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/170374.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/170374.jpg 1052,529,1144,769,0 1090,584,1166,802,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/170380.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/170380.jpg 501,666,606,899,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/170388.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/170388.jpg 1063,459,1140,681,0 301,769,404,1006,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/170389.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/170389.jpg 738,596,805,819,0 805,596,902,826,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/170410.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/170410.jpg 727,577,845,827,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/170411.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/170411.jpg 754,535,854,767,0 328,819,427,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/170412.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/170412.jpg 726,616,798,839,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/170420.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/170420.jpg 915,545,982,789,0 1009,556,1093,827,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/170425.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/170425.jpg 745,682,856,939,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/170448.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/170448.jpg 802,645,892,797,0 1215,529,1280,709,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/170450.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/170450.jpg 913,608,975,835,0 1105,458,1185,707,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/170458.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/170458.jpg 1112,506,1207,791,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/170459.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/170459.jpg 744,678,824,912,0 811,690,859,852,0 906,678,956,861,0 607,650,689,858,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/170472.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/170472.jpg 670,627,744,823,0 815,579,885,809,0 1199,524,1280,709,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/170480.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/170480.jpg 1015,585,1096,790,0 1076,485,1178,673,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/170481.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/170481.jpg 671,579,779,831,0 251,782,342,977,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/170506.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/170506.jpg 784,616,851,837,0 845,639,902,801,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/170509.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/170509.jpg 770,608,866,832,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/180026.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/180026.jpg 738,92,840,318,0 541,198,628,391,0 432,151,496,343,0 141,83,236,328,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/180052.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/180052.jpg 1200,15,1247,220,0 549,313,620,520,0 168,192,243,406,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/180059.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/180059.jpg 44,90,154,336,0 204,141,308,405,0 997,64,1077,303,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/180068.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/180068.jpg 24,355,142,593,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/180070.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/180070.jpg 823,93,888,358,0 876,135,940,388,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/180074.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/180074.jpg 34,68,131,302,0 164,706,300,968,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/180095.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/180095.jpg 539,193,589,396,0 566,220,640,416,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/180103.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/180103.jpg 982,84,1072,345,0 1188,30,1254,259,0 85,75,166,259,0 130,284,197,511,0 230,366,316,522,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/180118.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/180118.jpg 257,277,354,529,0 776,98,844,303,0 1070,11,1139,248,0 1194,33,1254,267,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/180127.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/180127.jpg 582,178,672,417,0 64,296,165,555,0 267,823,413,1011,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/180151.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/180151.jpg 126,87,223,319,0 980,116,1067,323,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/180152.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/180152.jpg 55,83,146,337,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/180160.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/180160.jpg 100,91,193,329,0 15,206,102,450,0 191,303,284,541,0 1187,2,1249,208,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/180169.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/180169.jpg 966,52,1058,288,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/180172.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/180172.jpg 647,232,719,453,0 713,40,809,232,0 1192,2,1270,170,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/180174.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/180174.jpg 572,197,623,379,0 609,169,685,374,0 1068,3,1149,187,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/180176.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/180176.jpg 100,89,178,320,0 1,425,94,658,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/180181.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/180181.jpg 584,610,670,829,0 1193,17,1251,221,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/180182.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/180182.jpg 51,68,151,332,0 1066,1,1153,195,0 830,47,951,332,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/180198.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/180198.jpg 734,152,805,325,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/180200.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/180200.jpg 735,177,823,429,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/180205.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/180205.jpg 88,289,189,525,0 1199,387,1280,679,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/180223.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/180223.jpg 931,486,1071,764,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/180224.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/180224.jpg 19,757,146,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/180240.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/180240.jpg 840,551,938,764,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/180268.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/180268.jpg 188,144,262,365,0 439,227,506,423,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/180270.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/180270.jpg 140,406,246,634,0 220,109,309,336,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/180274.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/180274.jpg 226,325,332,589,0 71,306,161,532,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/180283.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/180283.jpg 525,212,580,411,0 565,205,648,401,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/180299.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/180299.jpg 16,202,101,455,0 112,85,185,325,0 254,350,340,583,0 807,75,922,342,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/180304.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/180304.jpg 892,601,1042,814,0 11,367,111,626,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/180313.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/180313.jpg 871,155,1007,393,0 1084,24,1208,256,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/180349.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/180349.jpg 53,70,146,328,0 992,130,1094,376,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/180353.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/180353.jpg 220,763,386,1002,0 1190,409,1270,661,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/180357.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/180357.jpg 176,144,249,375,0 582,189,640,381,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/180366.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/180366.jpg 103,392,190,632,0 72,380,175,603,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/180386.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/180386.jpg 50,93,150,333,0 216,139,304,416,0 861,99,943,349,0 1196,433,1280,657,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/180406.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/180406.jpg 98,89,191,315,0 16,217,109,456,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/180407.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/180407.jpg 33,68,117,308,0 171,364,304,579,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/250015.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/250015.jpg 411,468,501,702,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/250021.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/250021.jpg 488,128,604,360,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/250028.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/250028.jpg 248,201,344,420,0 378,160,475,379,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/250030.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/250030.jpg 1206,15,1280,265,0 1130,60,1200,259,0 1066,152,1121,329,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/250033.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/250033.jpg 298,94,420,335,0 941,742,1058,979,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/250043.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/250043.jpg 120,765,172,954,0 427,789,500,989,0 530,894,609,987,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/250053.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/250053.jpg 248,115,356,367,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/250054.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/250054.jpg 111,751,177,957,0 751,431,812,550,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/250058.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/250058.jpg 811,675,890,868,0 1014,555,1085,748,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/250078.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/250078.jpg 1057,178,1120,346,0 1120,136,1238,347,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/250090.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/250090.jpg 438,317,576,556,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/250091.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/250091.jpg 874,609,1007,874,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/250102.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/250102.jpg 475,391,618,644,0 974,822,1093,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/250111.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/250111.jpg 430,383,519,595,0 166,968,248,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/250124.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/250124.jpg 247,152,367,389,0 847,610,994,862,0 1172,637,1280,800,0 1074,943,1188,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/250130.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/250130.jpg 964,534,1082,802,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/250200.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/250200.jpg 926,607,1031,875,0 1131,612,1225,869,0 1166,649,1279,927,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/250223.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/250223.jpg 966,570,1101,836,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/250228.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/250228.jpg 560,680,654,916,0 650,705,744,966,0 749,707,837,978,0 823,732,922,1009,0 1006,705,1154,967,0 1072,749,1166,1020,0 1166,880,1255,1021,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/250240.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/250240.jpg 125,49,228,264,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/250253.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/250253.jpg 868,696,1001,938,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/250258.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/250258.jpg 911,649,1050,905,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/250273.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/250273.jpg 276,234,371,444,0 526,301,639,532,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/250280.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/250280.jpg 179,581,250,811,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/250282.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/250282.jpg 765,549,895,795,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/250285.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/250285.jpg 292,638,364,855,0 88,649,150,879,0 105,577,212,834,0 16,679,50,797,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/250288.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/250288.jpg 90,733,179,956,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/250300.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/250300.jpg 1017,573,1104,762,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/250310.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/250310.jpg 1203,654,1280,888,0 778,949,864,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/250315.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/250315.jpg 120,762,168,950,0 369,800,425,1005,0 534,882,617,976,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/250320.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/250320.jpg 832,728,954,1024,0 392,131,511,359,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/250331.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/250331.jpg 750,787,858,972,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/250342.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/250342.jpg 891,697,1016,941,0 318,258,452,444,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/250359.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/250359.jpg 825,460,955,621,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/250360.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/250360.jpg 940,510,1068,657,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/250361.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/250361.jpg 357,239,472,476,0 969,606,1092,849,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/250368.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/250368.jpg 518,799,600,924,0 774,654,876,850,0 1038,517,1100,712,0 1109,509,1185,696,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/250374.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/250374.jpg 681,69,778,326,0 230,34,345,251,0 1155,835,1275,1024,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/250390.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/250390.jpg 191,1,304,187,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/250392.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/250392.jpg 1077,811,1211,1015,0
+/home/lisongtao/datasets/LLVIP/valid/rgb/250403.jpg /home/lisongtao/datasets/LLVIP/valid/thermal/250403.jpg 726,667,812,946,0 990,776,1116,1022,0
