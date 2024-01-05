@@ -17,7 +17,7 @@ def meanAP_LogAverageMissRate():
     # print(identify)
     # filter ground truth by marking boxes with the ignore flag
     bbb.filter_ignore(ground_truth, [bbb.ClassLabelFilter(['person']),  # only consider 'person' objects
-                                     bbb.HeightRangeFilter((512 * 50 / 416, float('Inf'))),  # select instances of 50 pixels or higher, 50 pixel is for 512 height, we set the height of input tensor is 416, 50 for 416 = 61 for 512.
+                                     bbb.HeightRangeFilter((50, float('Inf'))),  # select instances of 50 pixels or higher, 50 pixel is for 512 height, we set the height of input tensor is 416, 50 for 416 = 61 for 512.
                                      bbb.OcclusionAreaFilter(
                                          (0.65, float('Inf')))])  # only include objects that are 65% visible or more
 
