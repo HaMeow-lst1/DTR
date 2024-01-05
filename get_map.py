@@ -44,7 +44,7 @@ if __name__ == "__main__":
     #   默认指向根目录下的VOC数据集
     #-------------------------------------------------------#
     data_name  = 'KAIST'
-    data_path  = '/home/lisongtao/datasets/' + data_name
+    data_path  = '/home/lisongtao/datasets/' + data_name   #Change path here please
     
     #-------------------------------------------------------#
     #   结果输出的文件夹，默认为map_out

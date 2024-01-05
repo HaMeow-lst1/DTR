@@ -207,7 +207,9 @@ def meanAP_LogAverageMissRate():
 
 
 if __name__ == '__main__':
-
+    '''
+    name format : setXX/Vxx/Ixxxxx
+    '''
     
     path = 'map_out/KAIST/detection-results'
     
@@ -224,31 +226,7 @@ if __name__ == '__main__':
         json.dump(detection_results, f, ensure_ascii = False)
         f.close()  
     
-    '''
-    f = open(path,'rb')
-    pkl = pickle.load(f)
-    f.close()
-    
-    with open('test.txt') as f:
-        name_lines = f.readlines()
-        f.close()
-    
-    detection_results = []
-    for i in range(len(name_lines)):
-        name = name_lines[i][:-1]
-        name = name.replace('_lwir_', '_')
-        name = name.replace('_visible_', '_')
-        name = name.replace('_', '/')
-        
-        anns = pkl[i][0]
-        for j in range(anns.shape[0]):
-            detection_results.append({"image_id": name, "category_id": 1, "bbox":[float(pkl[i][0][j, 0]), float(pkl[i][0][j, 1]), float(pkl[i][0][j, 2] - pkl[i][0][j, 0]), float(pkl[i][0][j, 3] - pkl[i][0][j, 1])], "score": float(pkl[i][0][j, 4])})
 
-    with open('results/detection_results.json', 'w', encoding = 'utf-8') as f:
-        json.dump(detection_results, f, ensure_ascii = False)
-        f.close()
-    '''
-    
     all_ap, day_ap, night_ap, all_mr, day_mr, night_mr = meanAP_LogAverageMissRate()
     print('ap: %.4f ap_d: %.4f ap_n: %.4f lamr: %.4f mr_d: %.4f mr_n: %.4f \n' % (
         all_ap / 100.0, day_ap / 100.0, night_ap / 100.0, all_mr / 100.0, day_mr / 100.0, night_mr / 100.0))
