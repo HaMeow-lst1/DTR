@@ -1,1 +1,0 @@
-.json for KAIST predicted results.
