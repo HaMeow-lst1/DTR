@@ -1,4 +1,4 @@
-# Updated Code For "Thermal Pedestrian Detection Based on Different Resolution Visual Image"
+# Official Code For "Thermal Pedestrian Detection Based on Different Resolution Visual Image"
 
 ## Update
 
@@ -22,3 +22,9 @@ cd ssd
 cd centernet
 ```
 for more details.
+
+## Finised Trained Model
+
+The weights (.pth documents) are available on https://drive.google.com/drive/folders/14JB5esryAl9Yvto2qqBtlAh_JF_RbooG?usp=drive_link.
+
+You can use them for test.
