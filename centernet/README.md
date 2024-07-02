@@ -1,52 +1,10 @@
-## CenterNet:Objects as Points目标检测模型在Pytorch当中的实现
----
+# DTR on CenterNet 
 
+## Pre-trained model
 
-## 目录
-1. [仓库更新 Top News](#仓库更新)
-2. [性能情况 Performance](#性能情况)
-3. [所需环境 Environment](#所需环境)
-4. [注意事项 Attention](#注意事项)
-5. [文件下载 Download](#文件下载)
-6. [训练步骤 How2train](#训练步骤)
-7. [预测步骤 How2predict](#预测步骤)
-8. [评估步骤 How2eval](#评估步骤)
-9. [参考资料 Reference](#Reference)
+Please download the pre-trained model from [bubbliiiing/yolo3-pytorch](https://github.com/bubbliiiing/yolo3-pytorch). The pre-trained model should be in the "model_data" folder.
 
-## Top News
-**`2022-04`**:**进行了大幅度的更新，支持step、cos学习率下降法、支持adam、sgd优化器选择、支持学习率根据batch_size自适应调整、新增图片裁剪。支持多GPU训练，新增各个种类目标数量计算，新增heatmap。**  
-BiliBili视频中的原仓库地址为：https://github.com/bubbliiiing/centernet-pytorch/tree/bilibili
-
-**`2021-10`**:**进行了大幅度的更新，增加了大量注释、增加了大量可调整参数、对代码的组成模块进行修改、增加fps、视频预测、批量预测等功能。**   
-
-## 性能情况
-| 训练数据集 | 权值文件名称 | 测试数据集 | 输入图片大小 | mAP 0.5:0.95 | mAP 0.5 |
-| :-----: | :-----: | :------: | :------: | :------: | :-----: |
-| VOC07+12 | [centernet_resnet50_voc.pth](https://github.com/bubbliiiing/centernet-pytorch/releases/download/v1.0/centernet_resnet50_voc.pth) | VOC-Test07 | 512x512 | - | 77.1
-| COCO-Train2017 | [centernet_hourglass_coco.pth](https://github.com/bubbliiiing/centernet-pytorch/releases/download/v1.0/centernet_hourglass_coco.pth) | COCO-Val2017 | 512x512 | 38.4 | 56.8 
-
-## 所需环境
-torch==1.2.0
-
-## 注意事项
-代码中的centernet_resnet50_voc.pth是使用voc数据集训练的。    
-代码中的centernet_hourglass_coco.pth是使用coco数据集训练的。   
-**注意不要使用中文标签，文件夹中不要有空格！**     
-**在训练前需要务必在model_data下新建一个txt文档，文档中输入需要分的类，在train.py中将classes_path指向该文件**。     
-
-## 文件下载 
-训练所需的centernet_resnet50_voc.pth、centernet_hourglass_coco.pth和主干的权值可在百度网盘中下载。    
-链接: https://pan.baidu.com/s/1YOQgpCiXPKiXC9Wgn6Kt0w     
-提取码: 589g    
-
-centernet_resnet50_voc.pth是voc数据集的权重。    
-centernet_hourglass_coco.pth是coco数据集的权重。    
-
-VOC数据集下载地址如下，里面已经包括了训练集、测试集、验证集（与测试集一样），无需再次划分：  
-链接: https://pan.baidu.com/s/1-1Ej6dayrx3g0iAA88uY5A    
-提取码: ph32   
-
-## 训练步骤
+## Train
 ### a、训练VOC07+12数据集
 1. 数据集的准备   
 **本文使用VOC格式进行训练，训练前需要下载好VOC07+12的数据集，解压后放在根目录**  
