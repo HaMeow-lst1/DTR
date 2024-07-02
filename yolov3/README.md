@@ -7,7 +7,15 @@ Please download the pre-trained model from [bubbliiiing/yolo3-pytorch](https://g
 ## Train
 ### Choose Dataset
 
-Please change the 
+Please change the "DTR.dataset" and "DTR.base_dataset_path" in the DTR_config.py
+
+### Train
+
+Please run
+
+```
+python voc
+```
 
 
 ## Reference
