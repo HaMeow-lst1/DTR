@@ -14,11 +14,24 @@ Please change the "DTR.dataset" and "DTR.base_dataset_path" in the DTR_config.py
 Please run
 
 ```
-python voc
+python voc_annotation.py
+python train.py
 ```
 
+### Test
+
+Please run 
+
+```
+python get_map.py
+```
+and if the dataset is KAIST, please run
+
+```
+python lamr.py
+```
+for miss rate.
 
 ## Reference
-https://github.com/xuannianz/keras-CenterNet      
-https://github.com/see--/keras-centernet      
-https://github.com/xingyizhou/CenterNet    
+https://github.com/bubbliiiing/yolo3-pytorch
+https://github.com/mrkieumy/task-conditioned
