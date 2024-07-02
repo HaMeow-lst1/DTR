@@ -1,4 +1,4 @@
-# DTR on CenterNet 
+# DTR on YOLOv3
 
 ## Pre-trained model
 
@@ -34,4 +34,5 @@ for miss rate.
 
 ## Reference
 https://github.com/bubbliiiing/yolo3-pytorch
+
 https://github.com/mrkieumy/task-conditioned
