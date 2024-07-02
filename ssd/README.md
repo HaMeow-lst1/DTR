@@ -1,4 +1,4 @@
-# DTR on CenterNet 
+# DTR on SSD
 
 ## Pre-trained model
 
